@@ -48,8 +48,7 @@ A Django REST Framework-based e-commerce backend system featuring custom user ma
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ecommerce-api.git
-cd ecommerce-api
+git clone https://github.com/sagorluc/Technical_Task.git
 ```
 
 ### Create and Activate Virtual Env
