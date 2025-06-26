@@ -35,7 +35,7 @@ A Django REST Framework-based e-commerce backend system featuring custom user ma
 ## 🛠 Tech Stack
 
 - **Backend:** Django, Django REST Framework
-- **Auth:** SimpleJWT, Allauth (optional), dj-rest-auth
+- **Auth:** SimpleJWT
 - **Payments:** Stripe SDK
 - **Storage:** AWS S3 via django-storages
 - **Search/Filter:** DRF + django-filter
