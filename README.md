@@ -140,6 +140,8 @@ The following apps and middleware are used for Google OAuth:
 "allauth.account",
 "allauth.socialaccount",
 "allauth.socialaccount.providers.google",
+"allauth.socialaccount.providers.github",  # login with github account
+"allauth.socialaccount.providers.twitter", # login with twitter/(X) account
 ```
 ```MIDDLEWARE```
 ```python
