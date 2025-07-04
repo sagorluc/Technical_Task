@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     "allauth.account",
     "allauth.socialaccount",
     "allauth.socialaccount.providers.google",
+    "allauth.socialaccount.providers.github",  # login with github account
+    "allauth.socialaccount.providers.twitter", # login with twitter/(X) account
     
     # Third Party
     "rest_framework",
@@ -72,7 +74,15 @@ SOCIALACCOUNT_PROVIDERS = {
         'APP': {
             'client_id': config("GOOGLE_OAUTH_CLIENT_ID"),
             'secret': config("GOOGLE_OAUTH_SECRET_ID"),
-            'key': ''
+            # 'key': ''
+        },
+        'SCOPE': {
+            'profile',
+            'email',
+        },
+        'AUTH_PARAMS': {
+            'access_type': 'online',
+            'prompt': 'consent',
         }
     }
 }
@@ -173,3 +183,8 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 # OAuth
 SOCIALACCOUNT_LOGIN_ON_GET = True
+SOCIALACCOUNT_AUTO_SIGNUP = True            # For autometically sign-in
+SOCIALACCOUNT_UNIQUE_EMAIL = True           # Unique email for each account
+SOCIALACCOUNT_EMAIL_AUTHENTICATION = True   # authenticated with valid email
+SOCIALACCOUNT_EMAIL_AUTHENTICATION_AUTO_CONNECT = True  
+SOCIALACCOUNT_EMAIL_VERIFICATION = None # no need to verified every-time   

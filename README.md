@@ -157,11 +157,24 @@ SOCIALACCOUNT_PROVIDERS = {
             'client_id': config("GOOGLE_OAUTH_CLIENT_ID"),
             'secret': config("GOOGLE_OAUTH_SECRET_ID"),
             'key': ''
+        },
+        'SCOPE': {
+            'profile',
+            'email',
+        },
+        'AUTH_PARAMS': {
+            'access_type': 'online',
+            'prompt': 'consent',
         }
     }
 }
 
 SOCIALACCOUNT_LOGIN_ON_GET = True
+SOCIALACCOUNT_AUTO_SIGNUP = True            # For autometically sign-in
+SOCIALACCOUNT_UNIQUE_EMAIL = True           # Unique email for each account
+SOCIALACCOUNT_EMAIL_AUTHENTICATION = True   # authenticated with valid email
+SOCIALACCOUNT_EMAIL_AUTHENTICATION_AUTO_CONNECT = True  
+SOCIALACCOUNT_EMAIL_VERIFICATION = None # no need to verified every-time if already verified one time. 
 ```
 
 ### 🔐 Google OAuth Setup
