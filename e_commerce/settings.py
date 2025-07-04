@@ -31,12 +31,22 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    
+    # Google OAuth
+    "allauth",
+    "allauth.account",
+    "allauth.socialaccount",
+    "allauth.socialaccount.providers.google",
+    
+    # Third Party
     "rest_framework",
     "rest_framework_simplejwt",
     "django_filters",
     "storages",
-    "accounts",
-    "product",
+    
+    # Custom Apps
+    "apps.accounts",
+    "apps.product",
 ]
 
 MIDDLEWARE = [
@@ -47,7 +57,25 @@ MIDDLEWARE = [
     "django.contrib.auth.middleware.AuthenticationMiddleware",
     "django.contrib.messages.middleware.MessageMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
+    
+    # All Auth Middleware
+    "allauth.account.middleware.AccountMiddleware",
 ]
+
+# Provider specific settings
+SOCIALACCOUNT_PROVIDERS = {
+    'google': {
+        # For each OAuth based provider, either add a ``SocialApp``
+        # (``socialaccount`` app) containing the required client
+        # credentials, or list them here:
+        
+        'APP': {
+            'client_id': config("GOOGLE_OAUTH_CLIENT_ID"),
+            'secret': config("GOOGLE_OAUTH_SECRET_ID"),
+            'key': ''
+        }
+    }
+}
 
 ROOT_URLCONF = "e_commerce.urls"
 
@@ -61,6 +89,9 @@ TEMPLATES = [
                 "django.template.context_processors.request",
                 "django.contrib.auth.context_processors.auth",
                 "django.contrib.messages.context_processors.messages",
+                
+                 # `allauth` needs this from django
+                'django.template.context_processors.request',
             ],
         },
     },
@@ -139,3 +170,6 @@ MEDIA_URL = f"https://{AWS_S3_CUSTOM_DOMAIN}/"
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
+
+# OAuth
+SOCIALACCOUNT_LOGIN_ON_GET = True

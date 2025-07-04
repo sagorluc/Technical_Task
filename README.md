@@ -1,4 +1,4 @@
-# 🛒 E-Commerce API
+# 🛒 E-Commerce API With OAuth2.0, JWT, Stripe, S3 Bucket Storeage
 
 A Django REST Framework-based e-commerce backend system featuring custom user management, product/category APIs, Stripe checkout integration, AWS S3 media storage, and more.
 
@@ -36,6 +36,7 @@ A Django REST Framework-based e-commerce backend system featuring custom user ma
 
 - **Backend:** Django, Django REST Framework
 - **Auth:** SimpleJWT
+- **Auth2:** OAuth2.0
 - **Payments:** Stripe SDK
 - **Storage:** AWS S3 via django-storages
 - **Search/Filter:** DRF + django-filter
@@ -114,5 +115,80 @@ POST /api/products/checkout/ — Checkout the cart (auth required)
 - Profile pictures: profile_pictures/ on S3
 - Product images: products/ on S3
 
+
+# Google OAuth
+This Django project includes a complete authentication system with support for Google OAuth via django-allauth. Follow the steps below to set up and run the project on your local machine.
+
+### Install the package
+```shell
+pip install django-allauth # if doesn't need social account
+pip install "django-allauth[socialaccount]" # if need social account
+```
+
+### ⚙️ Environment Variables
+Create a .env file in the project root:
+```.env
+GOOGLE_OAUTH_CLIENT_ID=your-google-client-id
+GOOGLE_OAUTH_SECRET_ID=your-google-secret-id
+```
+
+### ⚙️ Installed Apps & Middleware
+The following apps and middleware are used for Google OAuth:
+```INSTALLED_APPS```
+```python
+"allauth",
+"allauth.account",
+"allauth.socialaccount",
+"allauth.socialaccount.providers.google",
+```
+```MIDDLEWARE```
+```python
+"allauth.account.middleware.AccountMiddleware",
+```
+```TEMPLATES > context_processors```
+```python
+'django.template.context_processors.request',
+```
+```⚙️ OAuth Configuration```
+```python
+SOCIALACCOUNT_PROVIDERS = {
+    'google': {
+        'APP': {
+            'client_id': config("GOOGLE_OAUTH_CLIENT_ID"),
+            'secret': config("GOOGLE_OAUTH_SECRET_ID"),
+            'key': ''
+        }
+    }
+}
+
+SOCIALACCOUNT_LOGIN_ON_GET = True
+```
+
+### 🔐 Google OAuth Setup
+1. Go to the [Google Cloud Console](https://console.cloud.google.com/)
+2. Create a new project or select an existing one.
+3. Navigate to:
+   - ```sql
+        APIs & Services → Credentials → Create Credentials → OAuth client ID
+     ```
+4. Choose ```Web application```, set redirect URI to:
+   - ```sql
+        http://localhost:8000/accounts/google/login/callback/
+     ```
+5. Copy the ```client_id``` and ```secret```, and place them in your ```.env```.
+   - 🔗 Reference: [AllAuth Google Setup Guide](https://docs.allauth.org/en/latest/installation/quickstart.html)
+  
+#### Migrate the database:
+```python
+python manage.py migrate
+
+then
+
+python manage.py runserver
+```
+  
+### 📚 Documentation
+- [Django AllAuth Docs](https://docs.allauth.org/en/latest/installation/quickstart.html)
+- [Google Cloud Console](https://console.cloud.google.com/)
 
 

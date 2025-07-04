@@ -1,7 +1,7 @@
 from django.db import models
 from django.utils.text import slugify
 from django.conf import settings
-from accounts.models import User
+from apps.accounts.models import User
 
 
 class Category(models.Model):
