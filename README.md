@@ -207,3 +207,63 @@ python manage.py runserver
 - [Google Cloud Console](https://console.cloud.google.com/)
 
 
+# Static & Media Storage with S3
+This Django project uses Amazon S3 for serving both static files and media uploads via the django-storages package. Static files are served publicly, while media files can be customized for private or public access.
+
+### ⚙️ Configuration
+The ```STORAGES``` setting in ```settings.py``` is configured as follows:
+```python
+STORAGES = {
+    "default": {
+        # Custom backend for media files
+        "BACKEND": "s3_storages.storages.CustomMediaS3Boto3Storage",
+        "OPTIONS": {
+            "access_key": config("AWS_S3_STORAGE_ACCESS_KEY"),
+            "secret_key": config("AWS_S3_STORAGE_SECRET_KEY"),
+            "bucket_name": config("AWS_S3_STORAGE_BUCKET_NAME"),
+            "endpoint_url": config("AWS_S3_STORAGE_ENDPOINT_URL"),
+            "custom_domain": config("AWS_S3_STORAGE_CUSTOM_DOMAIN"),
+            "location": "media",
+        },
+    },
+    "staticfiles": {
+        "BACKEND": "storages.backends.s3.S3Storage",
+        "OPTIONS": {
+            "access_key": config("AWS_S3_STORAGE_ACCESS_KEY"),
+            "secret_key": config("AWS_S3_STORAGE_SECRET_KEY"),
+            "bucket_name": config("AWS_S3_STORAGE_BUCKET_NAME"),
+            "endpoint_url": config("AWS_S3_STORAGE_ENDPOINT_URL"),
+            "location": "static",
+            "default_acl": "public-read",
+        },
+    },
+}
+```
+### 🗂 Folder Structure in S3
+Your bucket should include two main folders:
+
+- ``media/`` → For user-uploaded content ```(e.g., profile images, documents)```
+- ```static/``` → For static assets ```(e.g., CSS, JS, images)```
+
+### 📥 Required Environment Variables
+Place these in your ```.env``` file:
+```.env
+AWS_S3_STORAGE_ACCESS_KEY=your-access-key
+AWS_S3_STORAGE_SECRET_KEY=your-secret-key
+AWS_S3_STORAGE_BUCKET_NAME=your-bucket-name
+AWS_S3_STORAGE_ENDPOINT_URL=https://your-region.amazonaws.com
+AWS_S3_STORAGE_CUSTOM_DOMAIN=your-cloudfront-domain-or-s3-url
+```
+
+### 📦 Install Dependencies
+Make sure you have ```boto3``` and ```django-storages``` installed:
+```bash
+pip install boto3 django-storages
+pip install django-storages[s3]
+```
+This will upload all your ```static``` files to the ```S3 bucket``` under the ```static/ folder```.
+
+### 📄 Documentation
+- Django settings docs: [Read docs](https://docs.djangoproject.com/en/5.2/ref/settings/)
+- Django-storages docs: [Read docs](https://django-storages.readthedocs.io/en/latest/)
+

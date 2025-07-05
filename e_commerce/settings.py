@@ -1,4 +1,3 @@
-
 import os
 from pathlib import Path
 from decouple import config
@@ -31,21 +30,18 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    
     # Google OAuth
     "allauth",
     "allauth.account",
     "allauth.socialaccount",
     "allauth.socialaccount.providers.google",
     "allauth.socialaccount.providers.github",  # login with github account
-    "allauth.socialaccount.providers.twitter", # login with twitter/(X) account
-    
+    "allauth.socialaccount.providers.twitter",  # login with twitter/(X) account
     # Third Party
     "rest_framework",
     "rest_framework_simplejwt",
     "django_filters",
     "storages",
-    
     # Custom Apps
     "apps.accounts",
     "apps.product",
@@ -59,33 +55,59 @@ MIDDLEWARE = [
     "django.contrib.auth.middleware.AuthenticationMiddleware",
     "django.contrib.messages.middleware.MessageMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
-    
     # All Auth Middleware
     "allauth.account.middleware.AccountMiddleware",
 ]
 
 # Provider specific settings
 SOCIALACCOUNT_PROVIDERS = {
-    'google': {
+    "google": {
         # For each OAuth based provider, either add a ``SocialApp``
         # (``socialaccount`` app) containing the required client
         # credentials, or list them here:
-        
-        'APP': {
-            'client_id': config("GOOGLE_OAUTH_CLIENT_ID"),
-            'secret': config("GOOGLE_OAUTH_SECRET_ID"),
+        "APP": {
+            "client_id": config("GOOGLE_OAUTH_CLIENT_ID"),
+            "secret": config("GOOGLE_OAUTH_SECRET_ID"),
             # 'key': ''
         },
-        'SCOPE': {
-            'profile',
-            'email',
+        "SCOPE": {
+            "profile",
+            "email",
         },
-        'AUTH_PARAMS': {
-            'access_type': 'online',
-            'prompt': 'consent',
-        }
+        "AUTH_PARAMS": {
+            "access_type": "online",
+            "prompt": "consent",
+        },
     }
 }
+
+# # Storages mediafile on server S3 Bucket
+# STORAGES = {
+#     "default": {
+#         # "BACKEND": "storages.backends.s3.S3Storage",
+#         "BACKEND": "s3_storages.storages.CustomMediaS3Boto3Storage",  # customized
+#         "OPTIONS": {
+#             "access_key": config("AWS_S3_STORAGE_ACCESS_KEY"),
+#             "secret_key": config("AWS_S3_STORAGE_SECRET_KEY"),
+#             "bucket_name": config("AWS_S3_STORAGE_BUCKET_NAME"),
+#             "endpoint_url": config("AWS_S3_STORAGE_ENDPOINT_URL"),
+#             "custom_domain": config("AWS_S3_STORAGE_CUSTOM_DOMAIN"),
+#             "location": "media",  # folder name of s3 bucket
+#             # "default_acl": "private", # customized the access
+#         },
+#     },
+#     "staticfiles": {
+#         "BACKEND": "storages.backends.s3.S3Storage",
+#         "OPTIONS": {
+#             "access_key": config("AWS_S3_STORAGE_ACCESS_KEY"),
+#             "secret_key": config("AWS_S3_STORAGE_SECRET_KEY"),
+#             "bucket_name": config("AWS_S3_STORAGE_BUCKET_NAME"),
+#             "endpoint_url": config("AWS_S3_STORAGE_ENDPOINT_URL"),
+#             "location": "static",  # folder name of s3 bucket
+#             "default_acl": "public-read",
+#         },
+#     },
+# }
 
 ROOT_URLCONF = "e_commerce.urls"
 
@@ -99,9 +121,8 @@ TEMPLATES = [
                 "django.template.context_processors.request",
                 "django.contrib.auth.context_processors.auth",
                 "django.contrib.messages.context_processors.messages",
-                
-                 # `allauth` needs this from django
-                'django.template.context_processors.request',
+                # `allauth` needs this from django
+                "django.template.context_processors.request",
             ],
         },
     },
@@ -169,7 +190,7 @@ STATIC_URL = "static/"
 AWS_ACCESS_KEY_ID = config("AWS_ACCESS_KEY_ID")
 AWS_SECRET_ACCESS_KEY = config("AWS_SECRET_ACCESS_KEY")
 AWS_STORAGE_BUCKET_NAME = config("AWS_STORAGE_BUCKET_NAME")
-AWS_S3_REGION_NAME = config("AWS_S3_REGION_NAME", default="us-east-1") 
+AWS_S3_REGION_NAME = config("AWS_S3_REGION_NAME", default="us-east-1")
 AWS_S3_CUSTOM_DOMAIN = f"{AWS_STORAGE_BUCKET_NAME}.s3.amazonaws.com"
 
 # S3 for media storage
@@ -183,8 +204,8 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 # OAuth
 SOCIALACCOUNT_LOGIN_ON_GET = True
-SOCIALACCOUNT_AUTO_SIGNUP = True            # For autometically sign-in
-SOCIALACCOUNT_UNIQUE_EMAIL = True           # Unique email for each account
-SOCIALACCOUNT_EMAIL_AUTHENTICATION = True   # authenticated with valid email
-SOCIALACCOUNT_EMAIL_AUTHENTICATION_AUTO_CONNECT = True  
-SOCIALACCOUNT_EMAIL_VERIFICATION = None # no need to verified every-time   
+SOCIALACCOUNT_AUTO_SIGNUP = True  # For autometically sign-in
+SOCIALACCOUNT_UNIQUE_EMAIL = True  # Unique email for each account
+SOCIALACCOUNT_EMAIL_AUTHENTICATION = True  # authenticated with valid email
+SOCIALACCOUNT_EMAIL_AUTHENTICATION_AUTO_CONNECT = True
+SOCIALACCOUNT_EMAIL_VERIFICATION = None  # no need to verified every-time
