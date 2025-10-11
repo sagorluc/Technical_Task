@@ -2,7 +2,7 @@ import re
 from datetime import time, timedelta
 
 def is_valid_name(name):
-    """Check if name contains only letters, spaces, and hyphens"""
+    """Check if name contains only letters"""
     return bool(re.match(r'^[A-Za-z]+$', name))
 
 def is_numeric_number(number):
@@ -17,16 +17,16 @@ def is_employee_id(emp_id):
 
 def is_late_entry(first_punch_time):
     """Check if employee had late entry (after 09:30 AM)"""
-    late_threshold = time(9, 30)  # 09:30 AM
+    late_threshold = time(9, 30)  # 09:30 am
     return first_punch_time.time() > late_threshold
 
 def is_early_exit(last_punch_time):
     """Check if employee had early exit (before 05:00 PM)"""
-    early_threshold = time(17, 0)  # 05:00 PM
+    early_threshold = time(17, 0)  # 05:00 pm
     return last_punch_time.time() < early_threshold
 
 def check_employee_ID(emp_id, elog, row_info):
-    """Validate employee ID - required and must be numeric"""
+    """Validate employee ID required and must be numeric"""
     if not emp_id:
         elog.write(f"File-Name: {row_info['file_name']}: ROW: {row_info['row_number']}. Missing employee ID\n")
         return False
@@ -38,7 +38,7 @@ def check_employee_ID(emp_id, elog, row_info):
     return True
 
 def check_first_name(first_name, elog, row_info):
-    """Validate first name - required and must be alphabetic with spaces/hyphens"""
+    """Validate first name required and must be alphabetic with spaces/hyphens"""
     if not first_name:
         elog.write(f"File-Name: {row_info['file_name']}: ROW: {row_info['row_number']}. Missing first name\n")
         return False
@@ -50,7 +50,7 @@ def check_first_name(first_name, elog, row_info):
     return True
 
 def check_last_name(last_name, elog, row_info):
-    """Validate last name - required and must be alphabetic with spaces/hyphens"""
+    """Validate last name required and must be alphabetic with spaces/hyphens"""
     if not last_name:
         elog.write(f"File-Name: {row_info['file_name']}: ROW: {row_info['row_number']}. Missing last name\n")
         return False
@@ -62,7 +62,7 @@ def check_last_name(last_name, elog, row_info):
     return True
 
 def check_timestamp_row(timestamp_raw, elog, row_info):
-    """Validate timestamp - required and must be numeric"""
+    """Validate timestamp required and must be numeric"""
     if not timestamp_raw:
         elog.write(f"File-Name: {row_info['file_name']}: ROW: {row_info['row_number']}. Missing timestamp\n")
         return False
@@ -74,7 +74,7 @@ def check_timestamp_row(timestamp_raw, elog, row_info):
     return True
 
 def check_device(device, elog, row_info):
-    """Validate device - optional field"""
+    """Validate device optional field"""
     if not device:
         elog.write(f"File-Name: {row_info['file_name']}: ROW: {row_info['row_number']}. Missing device\n")
         return False
@@ -90,8 +90,7 @@ def calculate_working_hours(punches):
     if not punches:
         return timedelta(0)
     
-    # Sort punches by timestamp
-    sorted_punches = sorted(punches)
+    sorted_punches = sorted(punches)# sort punches by timestamp
     
     first_punch = sorted_punches[0]
     last_punch = sorted_punches[-1]
