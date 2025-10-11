@@ -1,0 +1,8162 @@
+{
+  "2025-09-01": [
+    {
+      "emp_code": "10000",
+      "first_punch": "08:24",
+      "last_punch": "23:57",
+      "total_punches": 79,
+      "working_hours": "15:32",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "08:11",
+      "last_punch": "23:54",
+      "total_punches": 87,
+      "working_hours": "14:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "08:06",
+      "last_punch": "23:36",
+      "total_punches": 85,
+      "working_hours": "14:30",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "08:01",
+      "last_punch": "23:33",
+      "total_punches": 76,
+      "working_hours": "14:32",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "08:13",
+      "last_punch": "23:48",
+      "total_punches": 91,
+      "working_hours": "15:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "08:12",
+      "last_punch": "23:06",
+      "total_punches": 74,
+      "working_hours": "14:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "08:04",
+      "last_punch": "23:39",
+      "total_punches": 75,
+      "working_hours": "15:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "08:10",
+      "last_punch": "23:37",
+      "total_punches": 74,
+      "working_hours": "14:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "09:14",
+      "last_punch": "23:36",
+      "total_punches": 60,
+      "working_hours": "13:22",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "08:09",
+      "last_punch": "23:40",
+      "total_punches": 67,
+      "working_hours": "14:30",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "08:26",
+      "last_punch": "23:58",
+      "total_punches": 75,
+      "working_hours": "15:31",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "08:22",
+      "last_punch": "23:56",
+      "total_punches": 75,
+      "working_hours": "15:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "08:05",
+      "last_punch": "23:38",
+      "total_punches": 65,
+      "working_hours": "14:33",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "08:02",
+      "last_punch": "23:59",
+      "total_punches": 81,
+      "working_hours": "14:57",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "08:05",
+      "last_punch": "23:38",
+      "total_punches": 72,
+      "working_hours": "14:32",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "08:19",
+      "last_punch": "23:24",
+      "total_punches": 60,
+      "working_hours": "15:05",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "08:13",
+      "last_punch": "23:55",
+      "total_punches": 65,
+      "working_hours": "15:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "08:08",
+      "last_punch": "23:44",
+      "total_punches": 80,
+      "working_hours": "15:36",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "08:07",
+      "last_punch": "23:17",
+      "total_punches": 76,
+      "working_hours": "15:10",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "08:05",
+      "last_punch": "23:54",
+      "total_punches": 78,
+      "working_hours": "15:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "08:13",
+      "last_punch": "23:55",
+      "total_punches": 82,
+      "working_hours": "14:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "08:00",
+      "last_punch": "23:44",
+      "total_punches": 86,
+      "working_hours": "15:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "08:06",
+      "last_punch": "23:26",
+      "total_punches": 89,
+      "working_hours": "15:20",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "08:08",
+      "last_punch": "23:59",
+      "total_punches": 69,
+      "working_hours": "14:50",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "08:20",
+      "last_punch": "23:54",
+      "total_punches": 71,
+      "working_hours": "15:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "08:08",
+      "last_punch": "23:55",
+      "total_punches": 77,
+      "working_hours": "15:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "08:09",
+      "last_punch": "23:58",
+      "total_punches": 71,
+      "working_hours": "14:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "08:16",
+      "last_punch": "23:58",
+      "total_punches": 77,
+      "working_hours": "15:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "08:09",
+      "last_punch": "23:31",
+      "total_punches": 78,
+      "working_hours": "15:22",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "08:04",
+      "last_punch": "23:57",
+      "total_punches": 101,
+      "working_hours": "15:53",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-02": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:01",
+      "last_punch": "23:58",
+      "total_punches": 120,
+      "working_hours": "22:57",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:05",
+      "last_punch": "23:59",
+      "total_punches": 121,
+      "working_hours": "23:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:09",
+      "last_punch": "23:30",
+      "total_punches": 115,
+      "working_hours": "23:21",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "01:19",
+      "last_punch": "23:40",
+      "total_punches": 123,
+      "working_hours": "22:20",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:09",
+      "last_punch": "23:47",
+      "total_punches": 105,
+      "working_hours": "22:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:14",
+      "last_punch": "23:56",
+      "total_punches": 108,
+      "working_hours": "22:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:10",
+      "last_punch": "23:57",
+      "total_punches": 117,
+      "working_hours": "22:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:22",
+      "last_punch": "23:54",
+      "total_punches": 112,
+      "working_hours": "23:32",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:01",
+      "last_punch": "23:27",
+      "total_punches": 118,
+      "working_hours": "23:26",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:03",
+      "last_punch": "23:49",
+      "total_punches": 99,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:12",
+      "last_punch": "23:54",
+      "total_punches": 102,
+      "working_hours": "22:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:07",
+      "last_punch": "23:38",
+      "total_punches": 97,
+      "working_hours": "22:30",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:00",
+      "last_punch": "23:56",
+      "total_punches": 104,
+      "working_hours": "22:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:27",
+      "last_punch": "23:56",
+      "total_punches": 125,
+      "working_hours": "23:28",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:18",
+      "last_punch": "23:47",
+      "total_punches": 124,
+      "working_hours": "22:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:01",
+      "last_punch": "23:55",
+      "total_punches": 126,
+      "working_hours": "22:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:56",
+      "last_punch": "23:54",
+      "total_punches": 120,
+      "working_hours": "22:57",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:45",
+      "last_punch": "23:31",
+      "total_punches": 125,
+      "working_hours": "22:46",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:04",
+      "last_punch": "23:58",
+      "total_punches": 131,
+      "working_hours": "23:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:01",
+      "last_punch": "23:56",
+      "total_punches": 117,
+      "working_hours": "22:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:08",
+      "last_punch": "23:57",
+      "total_punches": 110,
+      "working_hours": "23:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:07",
+      "last_punch": "23:49",
+      "total_punches": 118,
+      "working_hours": "23:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:04",
+      "last_punch": "23:58",
+      "total_punches": 135,
+      "working_hours": "22:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:18",
+      "last_punch": "23:27",
+      "total_punches": 125,
+      "working_hours": "23:08",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:28",
+      "last_punch": "23:35",
+      "total_punches": 118,
+      "working_hours": "22:07",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:17",
+      "last_punch": "23:39",
+      "total_punches": 90,
+      "working_hours": "22:21",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:12",
+      "last_punch": "23:43",
+      "total_punches": 108,
+      "working_hours": "22:31",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:15",
+      "last_punch": "23:50",
+      "total_punches": 118,
+      "working_hours": "23:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:07",
+      "last_punch": "23:51",
+      "total_punches": 108,
+      "working_hours": "22:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:10",
+      "last_punch": "23:50",
+      "total_punches": 103,
+      "working_hours": "22:40",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-03": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:09",
+      "last_punch": "23:54",
+      "total_punches": 134,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:38",
+      "last_punch": "23:13",
+      "total_punches": 97,
+      "working_hours": "21:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:02",
+      "last_punch": "23:34",
+      "total_punches": 126,
+      "working_hours": "22:32",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:05",
+      "last_punch": "23:51",
+      "total_punches": 89,
+      "working_hours": "22:46",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:03",
+      "last_punch": "23:49",
+      "total_punches": 97,
+      "working_hours": "22:46",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:10",
+      "last_punch": "23:52",
+      "total_punches": 121,
+      "working_hours": "22:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:01",
+      "last_punch": "23:30",
+      "total_punches": 104,
+      "working_hours": "22:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:09",
+      "last_punch": "23:26",
+      "total_punches": 106,
+      "working_hours": "23:16",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:18",
+      "last_punch": "22:59",
+      "total_punches": 130,
+      "working_hours": "22:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:37",
+      "last_punch": "23:57",
+      "total_punches": 105,
+      "working_hours": "22:20",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:00",
+      "last_punch": "23:57",
+      "total_punches": 133,
+      "working_hours": "22:57",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:15",
+      "last_punch": "23:44",
+      "total_punches": 109,
+      "working_hours": "22:28",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:03",
+      "last_punch": "23:52",
+      "total_punches": 121,
+      "working_hours": "22:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:08",
+      "last_punch": "23:59",
+      "total_punches": 107,
+      "working_hours": "22:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:04",
+      "last_punch": "22:27",
+      "total_punches": 116,
+      "working_hours": "21:22",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:25",
+      "last_punch": "23:44",
+      "total_punches": 114,
+      "working_hours": "23:18",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:22",
+      "last_punch": "23:58",
+      "total_punches": 114,
+      "working_hours": "22:36",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:01",
+      "last_punch": "23:49",
+      "total_punches": 113,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:02",
+      "last_punch": "23:39",
+      "total_punches": 117,
+      "working_hours": "22:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:06",
+      "last_punch": "23:52",
+      "total_punches": 109,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:02",
+      "last_punch": "23:59",
+      "total_punches": 111,
+      "working_hours": "23:57",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:08",
+      "last_punch": "23:17",
+      "total_punches": 115,
+      "working_hours": "23:09",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:05",
+      "last_punch": "23:50",
+      "total_punches": 105,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:00",
+      "last_punch": "23:34",
+      "total_punches": 113,
+      "working_hours": "23:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:02",
+      "last_punch": "23:37",
+      "total_punches": 122,
+      "working_hours": "22:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:35",
+      "last_punch": "23:55",
+      "total_punches": 112,
+      "working_hours": "22:20",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:15",
+      "last_punch": "23:55",
+      "total_punches": 108,
+      "working_hours": "22:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:08",
+      "last_punch": "23:55",
+      "total_punches": 114,
+      "working_hours": "23:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:36",
+      "last_punch": "23:37",
+      "total_punches": 91,
+      "working_hours": "23:01",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:12",
+      "last_punch": "23:57",
+      "total_punches": 101,
+      "working_hours": "23:44",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-04": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:27",
+      "last_punch": "23:55",
+      "total_punches": 108,
+      "working_hours": "22:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:13",
+      "last_punch": "23:57",
+      "total_punches": 107,
+      "working_hours": "22:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:15",
+      "last_punch": "23:53",
+      "total_punches": 105,
+      "working_hours": "22:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:09",
+      "last_punch": "23:58",
+      "total_punches": 114,
+      "working_hours": "23:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:02",
+      "last_punch": "23:42",
+      "total_punches": 134,
+      "working_hours": "22:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:33",
+      "last_punch": "23:26",
+      "total_punches": 104,
+      "working_hours": "21:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:15",
+      "last_punch": "23:59",
+      "total_punches": 126,
+      "working_hours": "22:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:03",
+      "last_punch": "23:48",
+      "total_punches": 113,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:03",
+      "last_punch": "23:37",
+      "total_punches": 130,
+      "working_hours": "23:33",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:35",
+      "last_punch": "23:32",
+      "total_punches": 120,
+      "working_hours": "22:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:54",
+      "last_punch": "23:45",
+      "total_punches": 101,
+      "working_hours": "21:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:03",
+      "last_punch": "23:19",
+      "total_punches": 115,
+      "working_hours": "22:15",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:04",
+      "last_punch": "23:54",
+      "total_punches": 116,
+      "working_hours": "23:50",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:00",
+      "last_punch": "23:44",
+      "total_punches": 121,
+      "working_hours": "22:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:03",
+      "last_punch": "23:49",
+      "total_punches": 129,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:09",
+      "last_punch": "23:48",
+      "total_punches": 114,
+      "working_hours": "22:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:02",
+      "last_punch": "23:58",
+      "total_punches": 122,
+      "working_hours": "23:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:11",
+      "last_punch": "23:50",
+      "total_punches": 123,
+      "working_hours": "23:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:06",
+      "last_punch": "23:42",
+      "total_punches": 138,
+      "working_hours": "23:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:17",
+      "last_punch": "23:28",
+      "total_punches": 114,
+      "working_hours": "22:11",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:09",
+      "last_punch": "23:45",
+      "total_punches": 101,
+      "working_hours": "23:36",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:24",
+      "last_punch": "23:58",
+      "total_punches": 116,
+      "working_hours": "23:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:08",
+      "last_punch": "23:39",
+      "total_punches": 90,
+      "working_hours": "22:30",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:00",
+      "last_punch": "23:54",
+      "total_punches": 121,
+      "working_hours": "23:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:24",
+      "last_punch": "23:56",
+      "total_punches": 114,
+      "working_hours": "23:31",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:18",
+      "last_punch": "23:28",
+      "total_punches": 109,
+      "working_hours": "23:10",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:11",
+      "last_punch": "23:55",
+      "total_punches": 109,
+      "working_hours": "23:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:01",
+      "last_punch": "23:45",
+      "total_punches": 123,
+      "working_hours": "23:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:12",
+      "last_punch": "23:35",
+      "total_punches": 95,
+      "working_hours": "22:23",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:16",
+      "last_punch": "23:49",
+      "total_punches": 111,
+      "working_hours": "22:33",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-05": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:19",
+      "last_punch": "23:55",
+      "total_punches": 134,
+      "working_hours": "22:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:27",
+      "last_punch": "23:46",
+      "total_punches": 121,
+      "working_hours": "22:18",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:04",
+      "last_punch": "23:41",
+      "total_punches": 109,
+      "working_hours": "22:36",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:15",
+      "last_punch": "23:59",
+      "total_punches": 114,
+      "working_hours": "23:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:10",
+      "last_punch": "23:59",
+      "total_punches": 116,
+      "working_hours": "23:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:12",
+      "last_punch": "23:38",
+      "total_punches": 120,
+      "working_hours": "22:25",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:03",
+      "last_punch": "23:58",
+      "total_punches": 112,
+      "working_hours": "22:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:01",
+      "last_punch": "23:59",
+      "total_punches": 120,
+      "working_hours": "22:58",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:17",
+      "last_punch": "23:40",
+      "total_punches": 118,
+      "working_hours": "22:22",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:01",
+      "last_punch": "23:56",
+      "total_punches": 127,
+      "working_hours": "22:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:37",
+      "last_punch": "23:53",
+      "total_punches": 119,
+      "working_hours": "23:16",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:19",
+      "last_punch": "23:51",
+      "total_punches": 106,
+      "working_hours": "23:32",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:03",
+      "last_punch": "23:52",
+      "total_punches": 118,
+      "working_hours": "23:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:09",
+      "last_punch": "23:37",
+      "total_punches": 117,
+      "working_hours": "23:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:04",
+      "last_punch": "23:56",
+      "total_punches": 125,
+      "working_hours": "23:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:04",
+      "last_punch": "23:36",
+      "total_punches": 122,
+      "working_hours": "23:31",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:02",
+      "last_punch": "23:47",
+      "total_punches": 95,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:17",
+      "last_punch": "23:46",
+      "total_punches": 120,
+      "working_hours": "22:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:14",
+      "last_punch": "23:56",
+      "total_punches": 92,
+      "working_hours": "23:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:06",
+      "last_punch": "23:48",
+      "total_punches": 123,
+      "working_hours": "23:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:03",
+      "last_punch": "23:56",
+      "total_punches": 106,
+      "working_hours": "22:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:55",
+      "last_punch": "23:55",
+      "total_punches": 106,
+      "working_hours": "21:59",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:03",
+      "last_punch": "23:56",
+      "total_punches": 109,
+      "working_hours": "23:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:06",
+      "last_punch": "23:46",
+      "total_punches": 116,
+      "working_hours": "22:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:11",
+      "last_punch": "23:43",
+      "total_punches": 125,
+      "working_hours": "22:32",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:23",
+      "last_punch": "23:37",
+      "total_punches": 101,
+      "working_hours": "23:14",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:18",
+      "last_punch": "23:37",
+      "total_punches": 98,
+      "working_hours": "23:18",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:09",
+      "last_punch": "23:36",
+      "total_punches": 139,
+      "working_hours": "23:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:04",
+      "last_punch": "23:33",
+      "total_punches": 123,
+      "working_hours": "22:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:01",
+      "last_punch": "23:32",
+      "total_punches": 105,
+      "working_hours": "22:30",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-06": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:02",
+      "last_punch": "23:58",
+      "total_punches": 112,
+      "working_hours": "23:55",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:14",
+      "last_punch": "23:41",
+      "total_punches": 106,
+      "working_hours": "22:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:25",
+      "last_punch": "23:53",
+      "total_punches": 111,
+      "working_hours": "22:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:02",
+      "last_punch": "23:59",
+      "total_punches": 100,
+      "working_hours": "22:57",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:10",
+      "last_punch": "23:44",
+      "total_punches": 106,
+      "working_hours": "22:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:11",
+      "last_punch": "23:50",
+      "total_punches": 107,
+      "working_hours": "22:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:17",
+      "last_punch": "23:59",
+      "total_punches": 109,
+      "working_hours": "22:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:37",
+      "last_punch": "23:41",
+      "total_punches": 115,
+      "working_hours": "22:03",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:02",
+      "last_punch": "23:59",
+      "total_punches": 117,
+      "working_hours": "22:57",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:00",
+      "last_punch": "23:57",
+      "total_punches": 113,
+      "working_hours": "23:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:09",
+      "last_punch": "23:48",
+      "total_punches": 130,
+      "working_hours": "22:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:22",
+      "last_punch": "23:57",
+      "total_punches": 101,
+      "working_hours": "22:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:26",
+      "last_punch": "23:57",
+      "total_punches": 105,
+      "working_hours": "22:31",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:02",
+      "last_punch": "23:51",
+      "total_punches": 102,
+      "working_hours": "22:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:00",
+      "last_punch": "23:53",
+      "total_punches": 129,
+      "working_hours": "23:53",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:08",
+      "last_punch": "23:59",
+      "total_punches": 102,
+      "working_hours": "22:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:27",
+      "last_punch": "23:57",
+      "total_punches": 103,
+      "working_hours": "23:30",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:16",
+      "last_punch": "23:37",
+      "total_punches": 105,
+      "working_hours": "23:21",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:17",
+      "last_punch": "23:58",
+      "total_punches": 111,
+      "working_hours": "22:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:02",
+      "last_punch": "23:55",
+      "total_punches": 123,
+      "working_hours": "23:53",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:05",
+      "last_punch": "23:54",
+      "total_punches": 131,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:19",
+      "last_punch": "23:59",
+      "total_punches": 106,
+      "working_hours": "22:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:01",
+      "last_punch": "23:49",
+      "total_punches": 131,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:10",
+      "last_punch": "23:52",
+      "total_punches": 113,
+      "working_hours": "23:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:00",
+      "last_punch": "23:56",
+      "total_punches": 128,
+      "working_hours": "23:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:05",
+      "last_punch": "23:48",
+      "total_punches": 125,
+      "working_hours": "22:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:04",
+      "last_punch": "23:52",
+      "total_punches": 126,
+      "working_hours": "23:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:06",
+      "last_punch": "23:52",
+      "total_punches": 127,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:05",
+      "last_punch": "23:46",
+      "total_punches": 110,
+      "working_hours": "23:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:10",
+      "last_punch": "23:48",
+      "total_punches": 113,
+      "working_hours": "22:38",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-07": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:03",
+      "last_punch": "23:58",
+      "total_punches": 99,
+      "working_hours": "22:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:00",
+      "last_punch": "23:45",
+      "total_punches": 107,
+      "working_hours": "22:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:11",
+      "last_punch": "23:52",
+      "total_punches": 132,
+      "working_hours": "23:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:00",
+      "last_punch": "23:59",
+      "total_punches": 112,
+      "working_hours": "23:59",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:10",
+      "last_punch": "23:55",
+      "total_punches": 107,
+      "working_hours": "22:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:12",
+      "last_punch": "23:56",
+      "total_punches": 115,
+      "working_hours": "22:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:13",
+      "last_punch": "23:53",
+      "total_punches": 98,
+      "working_hours": "22:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:11",
+      "last_punch": "23:52",
+      "total_punches": 103,
+      "working_hours": "22:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:02",
+      "last_punch": "23:50",
+      "total_punches": 105,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:16",
+      "last_punch": "23:42",
+      "total_punches": 90,
+      "working_hours": "22:25",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:13",
+      "last_punch": "23:30",
+      "total_punches": 128,
+      "working_hours": "23:17",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:06",
+      "last_punch": "23:26",
+      "total_punches": 103,
+      "working_hours": "22:19",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:46",
+      "last_punch": "23:57",
+      "total_punches": 111,
+      "working_hours": "22:11",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:10",
+      "last_punch": "23:35",
+      "total_punches": 123,
+      "working_hours": "23:25",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:07",
+      "last_punch": "23:58",
+      "total_punches": 123,
+      "working_hours": "23:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:11",
+      "last_punch": "23:18",
+      "total_punches": 112,
+      "working_hours": "22:06",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:11",
+      "last_punch": "23:59",
+      "total_punches": 92,
+      "working_hours": "22:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:02",
+      "last_punch": "23:59",
+      "total_punches": 122,
+      "working_hours": "23:57",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:07",
+      "last_punch": "23:56",
+      "total_punches": 99,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:03",
+      "last_punch": "23:56",
+      "total_punches": 127,
+      "working_hours": "22:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:03",
+      "last_punch": "23:45",
+      "total_punches": 114,
+      "working_hours": "23:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:00",
+      "last_punch": "23:53",
+      "total_punches": 111,
+      "working_hours": "22:53",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:18",
+      "last_punch": "23:59",
+      "total_punches": 124,
+      "working_hours": "22:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:14",
+      "last_punch": "23:49",
+      "total_punches": 104,
+      "working_hours": "23:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:02",
+      "last_punch": "23:55",
+      "total_punches": 110,
+      "working_hours": "22:53",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:07",
+      "last_punch": "23:48",
+      "total_punches": 119,
+      "working_hours": "23:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:04",
+      "last_punch": "23:44",
+      "total_punches": 121,
+      "working_hours": "23:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:23",
+      "last_punch": "23:38",
+      "total_punches": 126,
+      "working_hours": "23:14",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:10",
+      "last_punch": "23:44",
+      "total_punches": 110,
+      "working_hours": "22:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:13",
+      "last_punch": "23:49",
+      "total_punches": 111,
+      "working_hours": "23:35",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-08": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:11",
+      "last_punch": "23:39",
+      "total_punches": 117,
+      "working_hours": "23:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:00",
+      "last_punch": "23:40",
+      "total_punches": 136,
+      "working_hours": "23:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:07",
+      "last_punch": "23:47",
+      "total_punches": 109,
+      "working_hours": "22:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:06",
+      "last_punch": "23:36",
+      "total_punches": 127,
+      "working_hours": "23:30",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:03",
+      "last_punch": "23:52",
+      "total_punches": 109,
+      "working_hours": "22:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:00",
+      "last_punch": "23:55",
+      "total_punches": 118,
+      "working_hours": "22:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:07",
+      "last_punch": "23:29",
+      "total_punches": 117,
+      "working_hours": "23:22",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:11",
+      "last_punch": "23:55",
+      "total_punches": 109,
+      "working_hours": "23:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:06",
+      "last_punch": "23:39",
+      "total_punches": 113,
+      "working_hours": "22:33",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:20",
+      "last_punch": "23:38",
+      "total_punches": 102,
+      "working_hours": "22:17",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:04",
+      "last_punch": "23:32",
+      "total_punches": 110,
+      "working_hours": "23:28",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:19",
+      "last_punch": "23:54",
+      "total_punches": 112,
+      "working_hours": "22:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:03",
+      "last_punch": "23:56",
+      "total_punches": 126,
+      "working_hours": "23:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:01",
+      "last_punch": "23:59",
+      "total_punches": 128,
+      "working_hours": "23:58",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:02",
+      "last_punch": "23:41",
+      "total_punches": 115,
+      "working_hours": "23:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:01",
+      "last_punch": "23:59",
+      "total_punches": 121,
+      "working_hours": "22:58",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:11",
+      "last_punch": "23:56",
+      "total_punches": 111,
+      "working_hours": "22:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:03",
+      "last_punch": "23:50",
+      "total_punches": 130,
+      "working_hours": "23:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:17",
+      "last_punch": "23:48",
+      "total_punches": 105,
+      "working_hours": "22:30",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:02",
+      "last_punch": "23:56",
+      "total_punches": 103,
+      "working_hours": "22:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:14",
+      "last_punch": "23:53",
+      "total_punches": 126,
+      "working_hours": "22:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:37",
+      "last_punch": "23:53",
+      "total_punches": 109,
+      "working_hours": "22:16",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:14",
+      "last_punch": "23:59",
+      "total_punches": 116,
+      "working_hours": "23:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:14",
+      "last_punch": "23:55",
+      "total_punches": 111,
+      "working_hours": "22:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:01",
+      "last_punch": "23:56",
+      "total_punches": 113,
+      "working_hours": "23:55",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:00",
+      "last_punch": "23:52",
+      "total_punches": 122,
+      "working_hours": "23:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:34",
+      "last_punch": "23:56",
+      "total_punches": 99,
+      "working_hours": "22:21",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:21",
+      "last_punch": "23:27",
+      "total_punches": 103,
+      "working_hours": "23:06",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:07",
+      "last_punch": "23:43",
+      "total_punches": 99,
+      "working_hours": "22:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:10",
+      "last_punch": "23:26",
+      "total_punches": 108,
+      "working_hours": "22:15",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-09": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:33",
+      "last_punch": "23:57",
+      "total_punches": 89,
+      "working_hours": "22:24",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:04",
+      "last_punch": "23:37",
+      "total_punches": 112,
+      "working_hours": "23:33",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:08",
+      "last_punch": "23:40",
+      "total_punches": 101,
+      "working_hours": "22:31",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:08",
+      "last_punch": "23:48",
+      "total_punches": 126,
+      "working_hours": "23:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:00",
+      "last_punch": "23:55",
+      "total_punches": 125,
+      "working_hours": "22:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:28",
+      "last_punch": "23:59",
+      "total_punches": 109,
+      "working_hours": "22:30",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:01",
+      "last_punch": "23:50",
+      "total_punches": 116,
+      "working_hours": "22:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:09",
+      "last_punch": "23:50",
+      "total_punches": 114,
+      "working_hours": "22:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:22",
+      "last_punch": "23:33",
+      "total_punches": 119,
+      "working_hours": "22:10",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:00",
+      "last_punch": "23:43",
+      "total_punches": 110,
+      "working_hours": "23:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:06",
+      "last_punch": "23:53",
+      "total_punches": 125,
+      "working_hours": "22:46",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:08",
+      "last_punch": "23:59",
+      "total_punches": 112,
+      "working_hours": "23:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:09",
+      "last_punch": "23:54",
+      "total_punches": 99,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:14",
+      "last_punch": "23:58",
+      "total_punches": 110,
+      "working_hours": "22:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:01",
+      "last_punch": "23:59",
+      "total_punches": 113,
+      "working_hours": "22:58",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:13",
+      "last_punch": "23:38",
+      "total_punches": 106,
+      "working_hours": "22:24",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:02",
+      "last_punch": "23:47",
+      "total_punches": 121,
+      "working_hours": "23:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:05",
+      "last_punch": "23:58",
+      "total_punches": 120,
+      "working_hours": "22:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:01",
+      "last_punch": "23:21",
+      "total_punches": 114,
+      "working_hours": "22:19",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:06",
+      "last_punch": "23:58",
+      "total_punches": 119,
+      "working_hours": "23:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:27",
+      "last_punch": "23:58",
+      "total_punches": 103,
+      "working_hours": "23:30",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:05",
+      "last_punch": "23:59",
+      "total_punches": 97,
+      "working_hours": "23:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:01",
+      "last_punch": "23:34",
+      "total_punches": 114,
+      "working_hours": "23:33",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:04",
+      "last_punch": "23:13",
+      "total_punches": 112,
+      "working_hours": "22:08",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:11",
+      "last_punch": "23:48",
+      "total_punches": 146,
+      "working_hours": "23:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:33",
+      "last_punch": "23:39",
+      "total_punches": 116,
+      "working_hours": "22:05",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:06",
+      "last_punch": "23:56",
+      "total_punches": 104,
+      "working_hours": "23:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:06",
+      "last_punch": "23:38",
+      "total_punches": 135,
+      "working_hours": "22:31",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:10",
+      "last_punch": "23:50",
+      "total_punches": 103,
+      "working_hours": "22:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:01",
+      "last_punch": "23:49",
+      "total_punches": 114,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-10": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:34",
+      "last_punch": "23:42",
+      "total_punches": 114,
+      "working_hours": "22:07",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:05",
+      "last_punch": "23:42",
+      "total_punches": 114,
+      "working_hours": "23:36",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:00",
+      "last_punch": "23:53",
+      "total_punches": 128,
+      "working_hours": "23:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:24",
+      "last_punch": "23:59",
+      "total_punches": 105,
+      "working_hours": "22:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:34",
+      "last_punch": "23:25",
+      "total_punches": 127,
+      "working_hours": "22:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:17",
+      "last_punch": "23:50",
+      "total_punches": 109,
+      "working_hours": "22:33",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:00",
+      "last_punch": "23:57",
+      "total_punches": 99,
+      "working_hours": "22:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:15",
+      "last_punch": "23:43",
+      "total_punches": 125,
+      "working_hours": "22:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:13",
+      "last_punch": "23:52",
+      "total_punches": 115,
+      "working_hours": "22:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:14",
+      "last_punch": "23:55",
+      "total_punches": 103,
+      "working_hours": "23:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:15",
+      "last_punch": "23:50",
+      "total_punches": 117,
+      "working_hours": "22:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:02",
+      "last_punch": "23:48",
+      "total_punches": 122,
+      "working_hours": "23:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:06",
+      "last_punch": "23:33",
+      "total_punches": 105,
+      "working_hours": "22:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:05",
+      "last_punch": "23:44",
+      "total_punches": 101,
+      "working_hours": "22:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:09",
+      "last_punch": "23:52",
+      "total_punches": 120,
+      "working_hours": "23:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:12",
+      "last_punch": "23:56",
+      "total_punches": 109,
+      "working_hours": "23:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:13",
+      "last_punch": "23:56",
+      "total_punches": 118,
+      "working_hours": "23:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:18",
+      "last_punch": "23:59",
+      "total_punches": 114,
+      "working_hours": "23:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:14",
+      "last_punch": "23:48",
+      "total_punches": 108,
+      "working_hours": "22:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:16",
+      "last_punch": "23:45",
+      "total_punches": 93,
+      "working_hours": "22:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:33",
+      "last_punch": "23:06",
+      "total_punches": 101,
+      "working_hours": "21:33",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:07",
+      "last_punch": "23:19",
+      "total_punches": 120,
+      "working_hours": "23:11",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:04",
+      "last_punch": "23:45",
+      "total_punches": 127,
+      "working_hours": "22:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:20",
+      "last_punch": "23:58",
+      "total_punches": 111,
+      "working_hours": "22:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:04",
+      "last_punch": "23:57",
+      "total_punches": 114,
+      "working_hours": "22:53",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:01",
+      "last_punch": "23:57",
+      "total_punches": 135,
+      "working_hours": "23:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:00",
+      "last_punch": "23:51",
+      "total_punches": 98,
+      "working_hours": "22:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:23",
+      "last_punch": "23:53",
+      "total_punches": 131,
+      "working_hours": "22:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:07",
+      "last_punch": "23:39",
+      "total_punches": 116,
+      "working_hours": "22:32",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:00",
+      "last_punch": "23:57",
+      "total_punches": 103,
+      "working_hours": "23:56",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-11": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:21",
+      "last_punch": "23:51",
+      "total_punches": 122,
+      "working_hours": "23:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:14",
+      "last_punch": "23:56",
+      "total_punches": 116,
+      "working_hours": "23:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:01",
+      "last_punch": "23:56",
+      "total_punches": 136,
+      "working_hours": "23:55",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:53",
+      "last_punch": "23:53",
+      "total_punches": 122,
+      "working_hours": "21:59",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:03",
+      "last_punch": "23:45",
+      "total_punches": 102,
+      "working_hours": "22:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:13",
+      "last_punch": "23:58",
+      "total_punches": 137,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:03",
+      "last_punch": "23:27",
+      "total_punches": 108,
+      "working_hours": "22:24",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:03",
+      "last_punch": "23:59",
+      "total_punches": 94,
+      "working_hours": "22:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:06",
+      "last_punch": "23:59",
+      "total_punches": 132,
+      "working_hours": "23:53",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:08",
+      "last_punch": "23:52",
+      "total_punches": 115,
+      "working_hours": "23:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:26",
+      "last_punch": "23:56",
+      "total_punches": 115,
+      "working_hours": "22:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:21",
+      "last_punch": "23:36",
+      "total_punches": 96,
+      "working_hours": "22:15",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:04",
+      "last_punch": "23:54",
+      "total_punches": 120,
+      "working_hours": "22:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:02",
+      "last_punch": "23:58",
+      "total_punches": 104,
+      "working_hours": "23:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:03",
+      "last_punch": "23:59",
+      "total_punches": 124,
+      "working_hours": "23:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:00",
+      "last_punch": "23:58",
+      "total_punches": 98,
+      "working_hours": "23:58",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:03",
+      "last_punch": "23:33",
+      "total_punches": 95,
+      "working_hours": "23:30",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:09",
+      "last_punch": "23:58",
+      "total_punches": 132,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:01",
+      "last_punch": "23:40",
+      "total_punches": 133,
+      "working_hours": "23:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:08",
+      "last_punch": "23:35",
+      "total_punches": 103,
+      "working_hours": "22:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:06",
+      "last_punch": "23:58",
+      "total_punches": 119,
+      "working_hours": "23:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:14",
+      "last_punch": "23:31",
+      "total_punches": 95,
+      "working_hours": "22:16",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:11",
+      "last_punch": "23:59",
+      "total_punches": 134,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:09",
+      "last_punch": "23:29",
+      "total_punches": 125,
+      "working_hours": "22:20",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:06",
+      "last_punch": "23:55",
+      "total_punches": 103,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:00",
+      "last_punch": "23:58",
+      "total_punches": 117,
+      "working_hours": "23:57",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:02",
+      "last_punch": "23:43",
+      "total_punches": 128,
+      "working_hours": "22:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:08",
+      "last_punch": "23:59",
+      "total_punches": 115,
+      "working_hours": "22:50",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:00",
+      "last_punch": "23:39",
+      "total_punches": 119,
+      "working_hours": "23:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:04",
+      "last_punch": "23:48",
+      "total_punches": 103,
+      "working_hours": "22:44",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-12": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:11",
+      "last_punch": "23:54",
+      "total_punches": 113,
+      "working_hours": "22:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:07",
+      "last_punch": "23:29",
+      "total_punches": 115,
+      "working_hours": "22:21",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:26",
+      "last_punch": "23:57",
+      "total_punches": 113,
+      "working_hours": "22:31",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:13",
+      "last_punch": "23:53",
+      "total_punches": 114,
+      "working_hours": "23:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:11",
+      "last_punch": "23:55",
+      "total_punches": 119,
+      "working_hours": "23:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:05",
+      "last_punch": "23:53",
+      "total_punches": 92,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:32",
+      "last_punch": "23:53",
+      "total_punches": 84,
+      "working_hours": "22:20",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:12",
+      "last_punch": "23:39",
+      "total_punches": 105,
+      "working_hours": "22:26",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:20",
+      "last_punch": "23:58",
+      "total_punches": 106,
+      "working_hours": "23:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:23",
+      "last_punch": "23:47",
+      "total_punches": 102,
+      "working_hours": "22:24",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:06",
+      "last_punch": "23:50",
+      "total_punches": 129,
+      "working_hours": "22:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:27",
+      "last_punch": "23:56",
+      "total_punches": 103,
+      "working_hours": "22:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:06",
+      "last_punch": "23:54",
+      "total_punches": 110,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:04",
+      "last_punch": "23:57",
+      "total_punches": 101,
+      "working_hours": "23:53",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:01",
+      "last_punch": "23:43",
+      "total_punches": 104,
+      "working_hours": "22:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:05",
+      "last_punch": "23:42",
+      "total_punches": 120,
+      "working_hours": "22:36",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:11",
+      "last_punch": "23:53",
+      "total_punches": 125,
+      "working_hours": "22:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:21",
+      "last_punch": "23:51",
+      "total_punches": 100,
+      "working_hours": "22:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:29",
+      "last_punch": "23:48",
+      "total_punches": 116,
+      "working_hours": "23:19",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:20",
+      "last_punch": "23:55",
+      "total_punches": 113,
+      "working_hours": "22:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:32",
+      "last_punch": "23:59",
+      "total_punches": 108,
+      "working_hours": "22:26",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:01",
+      "last_punch": "23:53",
+      "total_punches": 111,
+      "working_hours": "22:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:56",
+      "last_punch": "23:39",
+      "total_punches": 106,
+      "working_hours": "21:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:02",
+      "last_punch": "23:31",
+      "total_punches": 115,
+      "working_hours": "23:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:05",
+      "last_punch": "23:51",
+      "total_punches": 98,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:22",
+      "last_punch": "23:57",
+      "total_punches": 125,
+      "working_hours": "23:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:13",
+      "last_punch": "23:22",
+      "total_punches": 91,
+      "working_hours": "22:09",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:06",
+      "last_punch": "23:55",
+      "total_punches": 117,
+      "working_hours": "22:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:03",
+      "last_punch": "23:28",
+      "total_punches": 127,
+      "working_hours": "22:25",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:00",
+      "last_punch": "23:59",
+      "total_punches": 112,
+      "working_hours": "22:59",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-13": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:15",
+      "last_punch": "23:58",
+      "total_punches": 122,
+      "working_hours": "23:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:12",
+      "last_punch": "23:34",
+      "total_punches": 116,
+      "working_hours": "23:22",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:08",
+      "last_punch": "23:47",
+      "total_punches": 107,
+      "working_hours": "23:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:23",
+      "last_punch": "23:54",
+      "total_punches": 119,
+      "working_hours": "22:30",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:46",
+      "last_punch": "23:52",
+      "total_punches": 118,
+      "working_hours": "22:05",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:09",
+      "last_punch": "23:51",
+      "total_punches": 119,
+      "working_hours": "23:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:11",
+      "last_punch": "23:52",
+      "total_punches": 97,
+      "working_hours": "22:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:13",
+      "last_punch": "23:40",
+      "total_punches": 113,
+      "working_hours": "22:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:13",
+      "last_punch": "23:47",
+      "total_punches": 108,
+      "working_hours": "23:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:05",
+      "last_punch": "23:56",
+      "total_punches": 111,
+      "working_hours": "23:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:08",
+      "last_punch": "23:23",
+      "total_punches": 104,
+      "working_hours": "22:14",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "01:02",
+      "last_punch": "23:34",
+      "total_punches": 101,
+      "working_hours": "21:31",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:10",
+      "last_punch": "23:47",
+      "total_punches": 120,
+      "working_hours": "22:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:01",
+      "last_punch": "23:51",
+      "total_punches": 126,
+      "working_hours": "23:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:17",
+      "last_punch": "23:55",
+      "total_punches": 112,
+      "working_hours": "22:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:14",
+      "last_punch": "23:32",
+      "total_punches": 110,
+      "working_hours": "22:18",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:10",
+      "last_punch": "23:57",
+      "total_punches": 100,
+      "working_hours": "22:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:24",
+      "last_punch": "23:32",
+      "total_punches": 91,
+      "working_hours": "23:07",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:01",
+      "last_punch": "23:55",
+      "total_punches": 117,
+      "working_hours": "22:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:34",
+      "last_punch": "23:55",
+      "total_punches": 102,
+      "working_hours": "22:20",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:05",
+      "last_punch": "23:50",
+      "total_punches": 103,
+      "working_hours": "22:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:02",
+      "last_punch": "23:51",
+      "total_punches": 105,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:02",
+      "last_punch": "23:50",
+      "total_punches": 109,
+      "working_hours": "23:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:09",
+      "last_punch": "23:57",
+      "total_punches": 114,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:04",
+      "last_punch": "23:49",
+      "total_punches": 113,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:13",
+      "last_punch": "23:58",
+      "total_punches": 106,
+      "working_hours": "22:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:13",
+      "last_punch": "23:29",
+      "total_punches": 112,
+      "working_hours": "22:16",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:02",
+      "last_punch": "23:32",
+      "total_punches": 110,
+      "working_hours": "23:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:38",
+      "last_punch": "23:15",
+      "total_punches": 112,
+      "working_hours": "22:36",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:18",
+      "last_punch": "23:34",
+      "total_punches": 92,
+      "working_hours": "22:15",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-14": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:08",
+      "last_punch": "23:58",
+      "total_punches": 119,
+      "working_hours": "22:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:11",
+      "last_punch": "23:59",
+      "total_punches": 108,
+      "working_hours": "22:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:02",
+      "last_punch": "23:58",
+      "total_punches": 119,
+      "working_hours": "22:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:04",
+      "last_punch": "23:53",
+      "total_punches": 120,
+      "working_hours": "23:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:19",
+      "last_punch": "23:58",
+      "total_punches": 112,
+      "working_hours": "22:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:05",
+      "last_punch": "23:21",
+      "total_punches": 117,
+      "working_hours": "22:15",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:11",
+      "last_punch": "23:54",
+      "total_punches": 118,
+      "working_hours": "23:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:00",
+      "last_punch": "23:55",
+      "total_punches": 114,
+      "working_hours": "23:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:06",
+      "last_punch": "23:55",
+      "total_punches": 117,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:04",
+      "last_punch": "23:59",
+      "total_punches": 108,
+      "working_hours": "22:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:02",
+      "last_punch": "23:47",
+      "total_punches": 126,
+      "working_hours": "22:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:32",
+      "last_punch": "23:54",
+      "total_punches": 120,
+      "working_hours": "22:22",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:03",
+      "last_punch": "23:19",
+      "total_punches": 125,
+      "working_hours": "23:16",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:04",
+      "last_punch": "23:44",
+      "total_punches": 108,
+      "working_hours": "22:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:06",
+      "last_punch": "23:46",
+      "total_punches": 108,
+      "working_hours": "22:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:20",
+      "last_punch": "23:57",
+      "total_punches": 123,
+      "working_hours": "23:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:04",
+      "last_punch": "23:57",
+      "total_punches": 103,
+      "working_hours": "22:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:03",
+      "last_punch": "23:52",
+      "total_punches": 123,
+      "working_hours": "22:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:01",
+      "last_punch": "23:52",
+      "total_punches": 123,
+      "working_hours": "23:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:03",
+      "last_punch": "23:58",
+      "total_punches": 104,
+      "working_hours": "22:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:35",
+      "last_punch": "23:43",
+      "total_punches": 119,
+      "working_hours": "22:08",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:10",
+      "last_punch": "23:59",
+      "total_punches": 106,
+      "working_hours": "22:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:00",
+      "last_punch": "23:58",
+      "total_punches": 133,
+      "working_hours": "22:57",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:03",
+      "last_punch": "23:57",
+      "total_punches": 127,
+      "working_hours": "23:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:21",
+      "last_punch": "23:34",
+      "total_punches": 123,
+      "working_hours": "22:13",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:06",
+      "last_punch": "23:44",
+      "total_punches": 108,
+      "working_hours": "23:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:02",
+      "last_punch": "23:46",
+      "total_punches": 112,
+      "working_hours": "23:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:24",
+      "last_punch": "23:43",
+      "total_punches": 117,
+      "working_hours": "22:19",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:06",
+      "last_punch": "23:28",
+      "total_punches": 113,
+      "working_hours": "23:22",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:03",
+      "last_punch": "23:59",
+      "total_punches": 107,
+      "working_hours": "22:56",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-15": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:08",
+      "last_punch": "23:46",
+      "total_punches": 125,
+      "working_hours": "23:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:00",
+      "last_punch": "23:59",
+      "total_punches": 131,
+      "working_hours": "23:59",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:04",
+      "last_punch": "23:50",
+      "total_punches": 102,
+      "working_hours": "23:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:04",
+      "last_punch": "23:38",
+      "total_punches": 126,
+      "working_hours": "22:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:27",
+      "last_punch": "23:47",
+      "total_punches": 129,
+      "working_hours": "23:19",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:14",
+      "last_punch": "23:59",
+      "total_punches": 112,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:07",
+      "last_punch": "23:49",
+      "total_punches": 128,
+      "working_hours": "22:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:25",
+      "last_punch": "23:52",
+      "total_punches": 108,
+      "working_hours": "22:26",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:13",
+      "last_punch": "23:58",
+      "total_punches": 126,
+      "working_hours": "23:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:22",
+      "last_punch": "23:54",
+      "total_punches": 136,
+      "working_hours": "22:31",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:17",
+      "last_punch": "23:56",
+      "total_punches": 108,
+      "working_hours": "22:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:16",
+      "last_punch": "23:57",
+      "total_punches": 111,
+      "working_hours": "23:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:29",
+      "last_punch": "23:18",
+      "total_punches": 125,
+      "working_hours": "21:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:07",
+      "last_punch": "23:53",
+      "total_punches": 122,
+      "working_hours": "23:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:14",
+      "last_punch": "23:51",
+      "total_punches": 103,
+      "working_hours": "22:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:07",
+      "last_punch": "23:58",
+      "total_punches": 105,
+      "working_hours": "23:50",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:31",
+      "last_punch": "23:59",
+      "total_punches": 107,
+      "working_hours": "22:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:13",
+      "last_punch": "23:55",
+      "total_punches": 111,
+      "working_hours": "22:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:02",
+      "last_punch": "23:55",
+      "total_punches": 128,
+      "working_hours": "23:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:02",
+      "last_punch": "23:57",
+      "total_punches": 100,
+      "working_hours": "22:55",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:08",
+      "last_punch": "23:40",
+      "total_punches": 120,
+      "working_hours": "23:31",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:43",
+      "last_punch": "23:39",
+      "total_punches": 101,
+      "working_hours": "21:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:11",
+      "last_punch": "23:40",
+      "total_punches": 108,
+      "working_hours": "22:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:00",
+      "last_punch": "23:58",
+      "total_punches": 140,
+      "working_hours": "23:58",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:03",
+      "last_punch": "23:58",
+      "total_punches": 129,
+      "working_hours": "23:55",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:04",
+      "last_punch": "23:55",
+      "total_punches": 126,
+      "working_hours": "22:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:22",
+      "last_punch": "23:59",
+      "total_punches": 129,
+      "working_hours": "22:36",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:17",
+      "last_punch": "23:40",
+      "total_punches": 102,
+      "working_hours": "22:22",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:00",
+      "last_punch": "23:55",
+      "total_punches": 108,
+      "working_hours": "22:55",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:21",
+      "last_punch": "23:35",
+      "total_punches": 112,
+      "working_hours": "22:13",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-16": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:21",
+      "last_punch": "23:15",
+      "total_punches": 127,
+      "working_hours": "22:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:02",
+      "last_punch": "23:57",
+      "total_punches": 126,
+      "working_hours": "22:55",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:00",
+      "last_punch": "23:56",
+      "total_punches": 111,
+      "working_hours": "23:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:18",
+      "last_punch": "23:55",
+      "total_punches": 134,
+      "working_hours": "22:36",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:00",
+      "last_punch": "23:52",
+      "total_punches": 113,
+      "working_hours": "22:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:09",
+      "last_punch": "23:34",
+      "total_punches": 111,
+      "working_hours": "23:24",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:11",
+      "last_punch": "23:57",
+      "total_punches": 115,
+      "working_hours": "23:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:22",
+      "last_punch": "23:41",
+      "total_punches": 96,
+      "working_hours": "22:19",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:02",
+      "last_punch": "23:16",
+      "total_punches": 107,
+      "working_hours": "23:14",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:03",
+      "last_punch": "23:54",
+      "total_punches": 126,
+      "working_hours": "23:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:05",
+      "last_punch": "22:56",
+      "total_punches": 100,
+      "working_hours": "21:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:05",
+      "last_punch": "23:40",
+      "total_punches": 142,
+      "working_hours": "23:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:25",
+      "last_punch": "23:35",
+      "total_punches": 121,
+      "working_hours": "22:09",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:24",
+      "last_punch": "23:52",
+      "total_punches": 102,
+      "working_hours": "23:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:31",
+      "last_punch": "23:38",
+      "total_punches": 130,
+      "working_hours": "23:06",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:01",
+      "last_punch": "23:52",
+      "total_punches": 113,
+      "working_hours": "22:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:26",
+      "last_punch": "23:36",
+      "total_punches": 115,
+      "working_hours": "23:09",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:02",
+      "last_punch": "23:40",
+      "total_punches": 105,
+      "working_hours": "22:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:16",
+      "last_punch": "23:32",
+      "total_punches": 96,
+      "working_hours": "22:15",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:05",
+      "last_punch": "23:29",
+      "total_punches": 107,
+      "working_hours": "22:23",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:04",
+      "last_punch": "23:57",
+      "total_punches": 87,
+      "working_hours": "22:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:04",
+      "last_punch": "23:59",
+      "total_punches": 92,
+      "working_hours": "22:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:04",
+      "last_punch": "23:54",
+      "total_punches": 106,
+      "working_hours": "23:50",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:01",
+      "last_punch": "23:56",
+      "total_punches": 114,
+      "working_hours": "23:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "01:16",
+      "last_punch": "23:50",
+      "total_punches": 79,
+      "working_hours": "21:33",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:14",
+      "last_punch": "23:53",
+      "total_punches": 129,
+      "working_hours": "23:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:11",
+      "last_punch": "23:00",
+      "total_punches": 123,
+      "working_hours": "21:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:00",
+      "last_punch": "23:59",
+      "total_punches": 109,
+      "working_hours": "22:58",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:13",
+      "last_punch": "23:23",
+      "total_punches": 106,
+      "working_hours": "22:10",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:21",
+      "last_punch": "23:17",
+      "total_punches": 112,
+      "working_hours": "21:56",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-17": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:06",
+      "last_punch": "23:47",
+      "total_punches": 115,
+      "working_hours": "22:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:11",
+      "last_punch": "23:58",
+      "total_punches": 110,
+      "working_hours": "22:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:23",
+      "last_punch": "23:43",
+      "total_punches": 89,
+      "working_hours": "22:19",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:04",
+      "last_punch": "23:48",
+      "total_punches": 127,
+      "working_hours": "22:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:04",
+      "last_punch": "23:44",
+      "total_punches": 135,
+      "working_hours": "23:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:07",
+      "last_punch": "23:53",
+      "total_punches": 130,
+      "working_hours": "22:46",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:06",
+      "last_punch": "23:54",
+      "total_punches": 108,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:11",
+      "last_punch": "23:52",
+      "total_punches": 142,
+      "working_hours": "23:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:07",
+      "last_punch": "23:57",
+      "total_punches": 128,
+      "working_hours": "23:50",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:23",
+      "last_punch": "23:53",
+      "total_punches": 142,
+      "working_hours": "23:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:12",
+      "last_punch": "23:46",
+      "total_punches": 115,
+      "working_hours": "22:33",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:18",
+      "last_punch": "23:55",
+      "total_punches": 134,
+      "working_hours": "23:36",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:01",
+      "last_punch": "23:53",
+      "total_punches": 117,
+      "working_hours": "22:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:02",
+      "last_punch": "23:59",
+      "total_punches": 128,
+      "working_hours": "22:57",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:14",
+      "last_punch": "23:15",
+      "total_punches": 102,
+      "working_hours": "22:01",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "01:01",
+      "last_punch": "23:45",
+      "total_punches": 101,
+      "working_hours": "21:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:10",
+      "last_punch": "23:58",
+      "total_punches": 109,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:01",
+      "last_punch": "23:46",
+      "total_punches": 98,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:14",
+      "last_punch": "23:52",
+      "total_punches": 114,
+      "working_hours": "22:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:15",
+      "last_punch": "23:56",
+      "total_punches": 123,
+      "working_hours": "22:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:00",
+      "last_punch": "23:57",
+      "total_punches": 113,
+      "working_hours": "22:57",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:05",
+      "last_punch": "23:37",
+      "total_punches": 118,
+      "working_hours": "22:31",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:11",
+      "last_punch": "23:50",
+      "total_punches": 113,
+      "working_hours": "22:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:00",
+      "last_punch": "23:48",
+      "total_punches": 122,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:14",
+      "last_punch": "23:45",
+      "total_punches": 122,
+      "working_hours": "23:30",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:02",
+      "last_punch": "23:59",
+      "total_punches": 138,
+      "working_hours": "23:57",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:05",
+      "last_punch": "23:49",
+      "total_punches": 90,
+      "working_hours": "22:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:18",
+      "last_punch": "23:34",
+      "total_punches": 99,
+      "working_hours": "22:15",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:40",
+      "last_punch": "23:57",
+      "total_punches": 105,
+      "working_hours": "22:16",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:13",
+      "last_punch": "23:52",
+      "total_punches": 105,
+      "working_hours": "22:38",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-18": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:01",
+      "last_punch": "23:57",
+      "total_punches": 109,
+      "working_hours": "22:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:06",
+      "last_punch": "23:34",
+      "total_punches": 102,
+      "working_hours": "22:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:06",
+      "last_punch": "23:47",
+      "total_punches": 111,
+      "working_hours": "23:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:23",
+      "last_punch": "23:53",
+      "total_punches": 98,
+      "working_hours": "22:30",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:05",
+      "last_punch": "23:25",
+      "total_punches": 129,
+      "working_hours": "23:20",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:02",
+      "last_punch": "23:51",
+      "total_punches": 125,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:03",
+      "last_punch": "23:58",
+      "total_punches": 125,
+      "working_hours": "23:55",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:03",
+      "last_punch": "23:56",
+      "total_punches": 120,
+      "working_hours": "22:53",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:08",
+      "last_punch": "23:57",
+      "total_punches": 111,
+      "working_hours": "23:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:21",
+      "last_punch": "23:45",
+      "total_punches": 107,
+      "working_hours": "22:24",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:07",
+      "last_punch": "23:59",
+      "total_punches": 109,
+      "working_hours": "22:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:00",
+      "last_punch": "23:27",
+      "total_punches": 106,
+      "working_hours": "22:26",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:11",
+      "last_punch": "23:31",
+      "total_punches": 90,
+      "working_hours": "22:19",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:01",
+      "last_punch": "23:49",
+      "total_punches": 113,
+      "working_hours": "22:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:19",
+      "last_punch": "23:24",
+      "total_punches": 112,
+      "working_hours": "22:05",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "01:11",
+      "last_punch": "23:43",
+      "total_punches": 92,
+      "working_hours": "21:31",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:17",
+      "last_punch": "23:45",
+      "total_punches": 111,
+      "working_hours": "22:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:02",
+      "last_punch": "23:59",
+      "total_punches": 127,
+      "working_hours": "22:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:05",
+      "last_punch": "23:56",
+      "total_punches": 110,
+      "working_hours": "22:50",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:09",
+      "last_punch": "23:32",
+      "total_punches": 111,
+      "working_hours": "23:23",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:02",
+      "last_punch": "23:59",
+      "total_punches": 121,
+      "working_hours": "22:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:03",
+      "last_punch": "23:43",
+      "total_punches": 118,
+      "working_hours": "22:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:15",
+      "last_punch": "23:55",
+      "total_punches": 111,
+      "working_hours": "22:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:44",
+      "last_punch": "23:46",
+      "total_punches": 115,
+      "working_hours": "23:02",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:06",
+      "last_punch": "23:43",
+      "total_punches": 115,
+      "working_hours": "22:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:19",
+      "last_punch": "23:54",
+      "total_punches": 104,
+      "working_hours": "23:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:20",
+      "last_punch": "23:32",
+      "total_punches": 104,
+      "working_hours": "23:11",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:02",
+      "last_punch": "23:46",
+      "total_punches": 118,
+      "working_hours": "22:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:01",
+      "last_punch": "23:48",
+      "total_punches": 107,
+      "working_hours": "23:46",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:06",
+      "last_punch": "23:54",
+      "total_punches": 94,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-19": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:16",
+      "last_punch": "23:37",
+      "total_punches": 110,
+      "working_hours": "22:21",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:19",
+      "last_punch": "23:47",
+      "total_punches": 121,
+      "working_hours": "23:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:25",
+      "last_punch": "23:36",
+      "total_punches": 98,
+      "working_hours": "22:11",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:07",
+      "last_punch": "23:43",
+      "total_punches": 107,
+      "working_hours": "22:36",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:27",
+      "last_punch": "23:58",
+      "total_punches": 114,
+      "working_hours": "23:30",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:49",
+      "last_punch": "23:27",
+      "total_punches": 100,
+      "working_hours": "22:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:23",
+      "last_punch": "23:58",
+      "total_punches": 117,
+      "working_hours": "22:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:12",
+      "last_punch": "23:59",
+      "total_punches": 108,
+      "working_hours": "22:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:17",
+      "last_punch": "23:52",
+      "total_punches": 111,
+      "working_hours": "23:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:14",
+      "last_punch": "23:57",
+      "total_punches": 123,
+      "working_hours": "23:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:11",
+      "last_punch": "23:51",
+      "total_punches": 95,
+      "working_hours": "22:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:35",
+      "last_punch": "23:52",
+      "total_punches": 120,
+      "working_hours": "22:17",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:07",
+      "last_punch": "23:53",
+      "total_punches": 120,
+      "working_hours": "23:46",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:03",
+      "last_punch": "23:55",
+      "total_punches": 103,
+      "working_hours": "22:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:00",
+      "last_punch": "23:56",
+      "total_punches": 110,
+      "working_hours": "23:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:22",
+      "last_punch": "23:37",
+      "total_punches": 101,
+      "working_hours": "22:14",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:22",
+      "last_punch": "23:59",
+      "total_punches": 120,
+      "working_hours": "22:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:07",
+      "last_punch": "23:59",
+      "total_punches": 102,
+      "working_hours": "22:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:06",
+      "last_punch": "23:52",
+      "total_punches": 98,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:19",
+      "last_punch": "23:51",
+      "total_punches": 116,
+      "working_hours": "22:31",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:04",
+      "last_punch": "23:58",
+      "total_punches": 123,
+      "working_hours": "23:53",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:01",
+      "last_punch": "23:59",
+      "total_punches": 123,
+      "working_hours": "22:58",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:00",
+      "last_punch": "23:55",
+      "total_punches": 95,
+      "working_hours": "23:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:05",
+      "last_punch": "23:50",
+      "total_punches": 110,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:01",
+      "last_punch": "23:25",
+      "total_punches": 117,
+      "working_hours": "22:24",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:25",
+      "last_punch": "23:51",
+      "total_punches": 110,
+      "working_hours": "23:25",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:00",
+      "last_punch": "23:59",
+      "total_punches": 107,
+      "working_hours": "22:58",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:20",
+      "last_punch": "23:50",
+      "total_punches": 105,
+      "working_hours": "22:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:31",
+      "last_punch": "23:46",
+      "total_punches": 97,
+      "working_hours": "22:14",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:03",
+      "last_punch": "23:15",
+      "total_punches": 110,
+      "working_hours": "22:12",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-20": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:01",
+      "last_punch": "23:29",
+      "total_punches": 108,
+      "working_hours": "23:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:07",
+      "last_punch": "23:49",
+      "total_punches": 114,
+      "working_hours": "22:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:00",
+      "last_punch": "23:59",
+      "total_punches": 101,
+      "working_hours": "23:59",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:04",
+      "last_punch": "22:55",
+      "total_punches": 113,
+      "working_hours": "21:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:24",
+      "last_punch": "23:37",
+      "total_punches": 115,
+      "working_hours": "23:12",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:58",
+      "last_punch": "23:46",
+      "total_punches": 136,
+      "working_hours": "22:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:02",
+      "last_punch": "23:39",
+      "total_punches": 107,
+      "working_hours": "22:36",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:00",
+      "last_punch": "23:44",
+      "total_punches": 120,
+      "working_hours": "23:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:26",
+      "last_punch": "23:54",
+      "total_punches": 130,
+      "working_hours": "22:28",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:03",
+      "last_punch": "23:49",
+      "total_punches": 118,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:12",
+      "last_punch": "22:51",
+      "total_punches": 125,
+      "working_hours": "21:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:00",
+      "last_punch": "23:42",
+      "total_punches": 108,
+      "working_hours": "23:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:17",
+      "last_punch": "23:51",
+      "total_punches": 112,
+      "working_hours": "22:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:06",
+      "last_punch": "23:35",
+      "total_punches": 110,
+      "working_hours": "23:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:15",
+      "last_punch": "23:13",
+      "total_punches": 126,
+      "working_hours": "22:58",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:20",
+      "last_punch": "23:47",
+      "total_punches": 107,
+      "working_hours": "23:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:03",
+      "last_punch": "23:49",
+      "total_punches": 108,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:16",
+      "last_punch": "23:53",
+      "total_punches": 133,
+      "working_hours": "22:36",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:37",
+      "last_punch": "23:39",
+      "total_punches": 123,
+      "working_hours": "22:02",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:08",
+      "last_punch": "23:46",
+      "total_punches": 109,
+      "working_hours": "22:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:03",
+      "last_punch": "23:33",
+      "total_punches": 118,
+      "working_hours": "22:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:16",
+      "last_punch": "23:59",
+      "total_punches": 125,
+      "working_hours": "23:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:21",
+      "last_punch": "23:32",
+      "total_punches": 126,
+      "working_hours": "22:11",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:25",
+      "last_punch": "23:42",
+      "total_punches": 108,
+      "working_hours": "22:17",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:00",
+      "last_punch": "23:35",
+      "total_punches": 104,
+      "working_hours": "22:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:00",
+      "last_punch": "23:54",
+      "total_punches": 122,
+      "working_hours": "23:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:06",
+      "last_punch": "23:55",
+      "total_punches": 143,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:13",
+      "last_punch": "23:47",
+      "total_punches": 108,
+      "working_hours": "23:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:01",
+      "last_punch": "23:49",
+      "total_punches": 127,
+      "working_hours": "23:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:16",
+      "last_punch": "23:39",
+      "total_punches": 123,
+      "working_hours": "23:23",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-21": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:15",
+      "last_punch": "23:49",
+      "total_punches": 107,
+      "working_hours": "22:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:03",
+      "last_punch": "23:45",
+      "total_punches": 107,
+      "working_hours": "23:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:10",
+      "last_punch": "23:59",
+      "total_punches": 118,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:00",
+      "last_punch": "23:59",
+      "total_punches": 120,
+      "working_hours": "23:59",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:01",
+      "last_punch": "23:49",
+      "total_punches": 103,
+      "working_hours": "22:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:08",
+      "last_punch": "23:55",
+      "total_punches": 95,
+      "working_hours": "22:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:02",
+      "last_punch": "23:51",
+      "total_punches": 114,
+      "working_hours": "22:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:13",
+      "last_punch": "23:51",
+      "total_punches": 101,
+      "working_hours": "22:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:01",
+      "last_punch": "23:58",
+      "total_punches": 105,
+      "working_hours": "22:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:40",
+      "last_punch": "23:50",
+      "total_punches": 139,
+      "working_hours": "23:10",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:11",
+      "last_punch": "23:22",
+      "total_punches": 126,
+      "working_hours": "22:10",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:01",
+      "last_punch": "23:09",
+      "total_punches": 116,
+      "working_hours": "22:07",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:00",
+      "last_punch": "23:48",
+      "total_punches": 110,
+      "working_hours": "22:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:05",
+      "last_punch": "23:43",
+      "total_punches": 108,
+      "working_hours": "22:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:36",
+      "last_punch": "23:53",
+      "total_punches": 124,
+      "working_hours": "23:17",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:01",
+      "last_punch": "23:25",
+      "total_punches": 100,
+      "working_hours": "22:23",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:01",
+      "last_punch": "23:54",
+      "total_punches": 104,
+      "working_hours": "22:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:08",
+      "last_punch": "23:55",
+      "total_punches": 105,
+      "working_hours": "22:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:08",
+      "last_punch": "23:56",
+      "total_punches": 125,
+      "working_hours": "23:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:14",
+      "last_punch": "23:52",
+      "total_punches": 120,
+      "working_hours": "23:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:00",
+      "last_punch": "23:38",
+      "total_punches": 124,
+      "working_hours": "23:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:12",
+      "last_punch": "23:57",
+      "total_punches": 133,
+      "working_hours": "22:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:00",
+      "last_punch": "23:15",
+      "total_punches": 120,
+      "working_hours": "22:15",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:35",
+      "last_punch": "23:59",
+      "total_punches": 121,
+      "working_hours": "23:24",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:03",
+      "last_punch": "23:52",
+      "total_punches": 106,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:02",
+      "last_punch": "23:38",
+      "total_punches": 102,
+      "working_hours": "22:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:03",
+      "last_punch": "23:55",
+      "total_punches": 112,
+      "working_hours": "22:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:13",
+      "last_punch": "23:57",
+      "total_punches": 113,
+      "working_hours": "23:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:07",
+      "last_punch": "23:25",
+      "total_punches": 118,
+      "working_hours": "22:17",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:00",
+      "last_punch": "23:43",
+      "total_punches": 112,
+      "working_hours": "22:42",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-22": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:03",
+      "last_punch": "23:45",
+      "total_punches": 90,
+      "working_hours": "22:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:07",
+      "last_punch": "23:54",
+      "total_punches": 105,
+      "working_hours": "22:46",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:04",
+      "last_punch": "23:59",
+      "total_punches": 107,
+      "working_hours": "23:55",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:37",
+      "last_punch": "23:58",
+      "total_punches": 115,
+      "working_hours": "22:21",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:09",
+      "last_punch": "23:53",
+      "total_punches": 112,
+      "working_hours": "23:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:04",
+      "last_punch": "23:51",
+      "total_punches": 100,
+      "working_hours": "22:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:05",
+      "last_punch": "23:45",
+      "total_punches": 127,
+      "working_hours": "22:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:21",
+      "last_punch": "23:21",
+      "total_punches": 88,
+      "working_hours": "21:59",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:02",
+      "last_punch": "23:54",
+      "total_punches": 104,
+      "working_hours": "22:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:02",
+      "last_punch": "23:53",
+      "total_punches": 105,
+      "working_hours": "22:50",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:13",
+      "last_punch": "23:36",
+      "total_punches": 112,
+      "working_hours": "23:23",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:26",
+      "last_punch": "23:30",
+      "total_punches": 125,
+      "working_hours": "23:04",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:11",
+      "last_punch": "23:46",
+      "total_punches": 112,
+      "working_hours": "23:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:03",
+      "last_punch": "23:50",
+      "total_punches": 120,
+      "working_hours": "22:46",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:08",
+      "last_punch": "23:53",
+      "total_punches": 110,
+      "working_hours": "23:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:16",
+      "last_punch": "23:53",
+      "total_punches": 114,
+      "working_hours": "22:36",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:01",
+      "last_punch": "23:59",
+      "total_punches": 111,
+      "working_hours": "22:58",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:01",
+      "last_punch": "23:11",
+      "total_punches": 108,
+      "working_hours": "22:10",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:11",
+      "last_punch": "23:59",
+      "total_punches": 115,
+      "working_hours": "23:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:02",
+      "last_punch": "23:50",
+      "total_punches": 114,
+      "working_hours": "22:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "01:12",
+      "last_punch": "23:48",
+      "total_punches": 100,
+      "working_hours": "21:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:08",
+      "last_punch": "23:43",
+      "total_punches": 127,
+      "working_hours": "23:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:45",
+      "last_punch": "23:51",
+      "total_punches": 113,
+      "working_hours": "23:06",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:19",
+      "last_punch": "23:57",
+      "total_punches": 104,
+      "working_hours": "22:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:22",
+      "last_punch": "23:47",
+      "total_punches": 116,
+      "working_hours": "22:24",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:01",
+      "last_punch": "23:41",
+      "total_punches": 113,
+      "working_hours": "22:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:09",
+      "last_punch": "22:56",
+      "total_punches": 101,
+      "working_hours": "22:46",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:31",
+      "last_punch": "23:53",
+      "total_punches": 94,
+      "working_hours": "22:21",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:09",
+      "last_punch": "23:18",
+      "total_punches": 110,
+      "working_hours": "23:08",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:08",
+      "last_punch": "23:48",
+      "total_punches": 125,
+      "working_hours": "22:39",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-23": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:03",
+      "last_punch": "23:36",
+      "total_punches": 109,
+      "working_hours": "23:32",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:07",
+      "last_punch": "23:49",
+      "total_punches": 115,
+      "working_hours": "22:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "01:04",
+      "last_punch": "23:59",
+      "total_punches": 107,
+      "working_hours": "22:55",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:06",
+      "last_punch": "23:43",
+      "total_punches": 112,
+      "working_hours": "22:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:21",
+      "last_punch": "23:26",
+      "total_punches": 107,
+      "working_hours": "22:05",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:28",
+      "last_punch": "23:48",
+      "total_punches": 108,
+      "working_hours": "22:20",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:13",
+      "last_punch": "23:55",
+      "total_punches": 108,
+      "working_hours": "23:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:01",
+      "last_punch": "23:47",
+      "total_punches": 121,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:09",
+      "last_punch": "23:36",
+      "total_punches": 91,
+      "working_hours": "22:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:08",
+      "last_punch": "23:50",
+      "total_punches": 95,
+      "working_hours": "22:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:03",
+      "last_punch": "23:13",
+      "total_punches": 123,
+      "working_hours": "22:09",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:19",
+      "last_punch": "23:29",
+      "total_punches": 98,
+      "working_hours": "22:10",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:00",
+      "last_punch": "23:56",
+      "total_punches": 116,
+      "working_hours": "22:55",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:01",
+      "last_punch": "23:57",
+      "total_punches": 127,
+      "working_hours": "23:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:04",
+      "last_punch": "23:43",
+      "total_punches": 117,
+      "working_hours": "22:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:02",
+      "last_punch": "23:38",
+      "total_punches": 114,
+      "working_hours": "22:36",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:12",
+      "last_punch": "23:55",
+      "total_punches": 122,
+      "working_hours": "22:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:06",
+      "last_punch": "23:42",
+      "total_punches": 104,
+      "working_hours": "22:36",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:04",
+      "last_punch": "23:56",
+      "total_punches": 133,
+      "working_hours": "23:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:28",
+      "last_punch": "23:43",
+      "total_punches": 122,
+      "working_hours": "22:15",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:34",
+      "last_punch": "23:25",
+      "total_punches": 114,
+      "working_hours": "21:50",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:06",
+      "last_punch": "23:48",
+      "total_punches": 106,
+      "working_hours": "23:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:06",
+      "last_punch": "23:52",
+      "total_punches": 118,
+      "working_hours": "23:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:13",
+      "last_punch": "23:47",
+      "total_punches": 97,
+      "working_hours": "22:33",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:11",
+      "last_punch": "23:58",
+      "total_punches": 118,
+      "working_hours": "22:46",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:20",
+      "last_punch": "23:32",
+      "total_punches": 115,
+      "working_hours": "22:12",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:33",
+      "last_punch": "23:47",
+      "total_punches": 119,
+      "working_hours": "22:13",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:01",
+      "last_punch": "23:59",
+      "total_punches": 128,
+      "working_hours": "23:57",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:16",
+      "last_punch": "23:39",
+      "total_punches": 117,
+      "working_hours": "22:23",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:32",
+      "last_punch": "23:58",
+      "total_punches": 111,
+      "working_hours": "23:26",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-24": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:33",
+      "last_punch": "23:38",
+      "total_punches": 101,
+      "working_hours": "22:05",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:19",
+      "last_punch": "23:46",
+      "total_punches": 130,
+      "working_hours": "22:26",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:19",
+      "last_punch": "23:54",
+      "total_punches": 111,
+      "working_hours": "22:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:03",
+      "last_punch": "23:57",
+      "total_punches": 123,
+      "working_hours": "22:53",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:00",
+      "last_punch": "23:36",
+      "total_punches": 105,
+      "working_hours": "22:36",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:36",
+      "last_punch": "23:52",
+      "total_punches": 125,
+      "working_hours": "23:15",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:10",
+      "last_punch": "23:51",
+      "total_punches": 97,
+      "working_hours": "22:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:11",
+      "last_punch": "23:10",
+      "total_punches": 107,
+      "working_hours": "22:59",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:03",
+      "last_punch": "23:30",
+      "total_punches": 112,
+      "working_hours": "22:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:04",
+      "last_punch": "23:32",
+      "total_punches": 126,
+      "working_hours": "23:28",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:31",
+      "last_punch": "23:59",
+      "total_punches": 126,
+      "working_hours": "22:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:05",
+      "last_punch": "23:50",
+      "total_punches": 121,
+      "working_hours": "22:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:00",
+      "last_punch": "23:47",
+      "total_punches": 113,
+      "working_hours": "23:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:03",
+      "last_punch": "23:52",
+      "total_punches": 114,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:07",
+      "last_punch": "23:45",
+      "total_punches": 130,
+      "working_hours": "22:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:13",
+      "last_punch": "23:39",
+      "total_punches": 104,
+      "working_hours": "22:26",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:03",
+      "last_punch": "23:50",
+      "total_punches": 99,
+      "working_hours": "22:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:09",
+      "last_punch": "23:57",
+      "total_punches": 102,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:14",
+      "last_punch": "23:53",
+      "total_punches": 107,
+      "working_hours": "23:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:01",
+      "last_punch": "23:48",
+      "total_punches": 119,
+      "working_hours": "22:46",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:52",
+      "last_punch": "23:59",
+      "total_punches": 117,
+      "working_hours": "22:07",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:00",
+      "last_punch": "23:54",
+      "total_punches": 117,
+      "working_hours": "23:53",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:00",
+      "last_punch": "23:57",
+      "total_punches": 121,
+      "working_hours": "22:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:22",
+      "last_punch": "23:55",
+      "total_punches": 123,
+      "working_hours": "22:32",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:39",
+      "last_punch": "23:59",
+      "total_punches": 133,
+      "working_hours": "23:20",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:03",
+      "last_punch": "23:28",
+      "total_punches": 116,
+      "working_hours": "23:25",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:32",
+      "last_punch": "23:37",
+      "total_punches": 110,
+      "working_hours": "23:04",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:09",
+      "last_punch": "23:49",
+      "total_punches": 117,
+      "working_hours": "22:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:02",
+      "last_punch": "23:26",
+      "total_punches": 106,
+      "working_hours": "22:23",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:05",
+      "last_punch": "23:59",
+      "total_punches": 107,
+      "working_hours": "22:54",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-25": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:05",
+      "last_punch": "23:43",
+      "total_punches": 106,
+      "working_hours": "22:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:00",
+      "last_punch": "23:58",
+      "total_punches": 116,
+      "working_hours": "22:57",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:09",
+      "last_punch": "23:50",
+      "total_punches": 113,
+      "working_hours": "23:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:12",
+      "last_punch": "23:57",
+      "total_punches": 109,
+      "working_hours": "23:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:12",
+      "last_punch": "23:14",
+      "total_punches": 119,
+      "working_hours": "22:02",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:05",
+      "last_punch": "23:54",
+      "total_punches": 109,
+      "working_hours": "23:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:00",
+      "last_punch": "23:46",
+      "total_punches": 112,
+      "working_hours": "23:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:31",
+      "last_punch": "23:53",
+      "total_punches": 98,
+      "working_hours": "22:21",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:01",
+      "last_punch": "23:54",
+      "total_punches": 113,
+      "working_hours": "22:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:06",
+      "last_punch": "23:46",
+      "total_punches": 107,
+      "working_hours": "22:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:06",
+      "last_punch": "23:23",
+      "total_punches": 114,
+      "working_hours": "23:17",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:13",
+      "last_punch": "23:59",
+      "total_punches": 112,
+      "working_hours": "23:46",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:22",
+      "last_punch": "23:51",
+      "total_punches": 109,
+      "working_hours": "22:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:08",
+      "last_punch": "23:33",
+      "total_punches": 114,
+      "working_hours": "22:24",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:10",
+      "last_punch": "23:54",
+      "total_punches": 137,
+      "working_hours": "23:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:21",
+      "last_punch": "23:30",
+      "total_punches": 103,
+      "working_hours": "22:09",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:00",
+      "last_punch": "23:58",
+      "total_punches": 112,
+      "working_hours": "22:58",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:05",
+      "last_punch": "23:57",
+      "total_punches": 110,
+      "working_hours": "22:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:21",
+      "last_punch": "23:48",
+      "total_punches": 108,
+      "working_hours": "22:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:11",
+      "last_punch": "23:43",
+      "total_punches": 95,
+      "working_hours": "22:31",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:45",
+      "last_punch": "23:59",
+      "total_punches": 100,
+      "working_hours": "22:14",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:13",
+      "last_punch": "23:54",
+      "total_punches": 120,
+      "working_hours": "22:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:07",
+      "last_punch": "23:59",
+      "total_punches": 111,
+      "working_hours": "23:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:13",
+      "last_punch": "22:43",
+      "total_punches": 103,
+      "working_hours": "22:30",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:10",
+      "last_punch": "23:51",
+      "total_punches": 92,
+      "working_hours": "23:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:08",
+      "last_punch": "23:47",
+      "total_punches": 114,
+      "working_hours": "22:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:20",
+      "last_punch": "23:59",
+      "total_punches": 103,
+      "working_hours": "22:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:15",
+      "last_punch": "23:39",
+      "total_punches": 112,
+      "working_hours": "22:23",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:14",
+      "last_punch": "22:54",
+      "total_punches": 119,
+      "working_hours": "22:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:44",
+      "last_punch": "23:11",
+      "total_punches": 108,
+      "working_hours": "22:26",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-26": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:48",
+      "last_punch": "23:47",
+      "total_punches": 130,
+      "working_hours": "22:58",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:03",
+      "last_punch": "23:56",
+      "total_punches": 107,
+      "working_hours": "22:53",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:08",
+      "last_punch": "23:50",
+      "total_punches": 122,
+      "working_hours": "23:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:01",
+      "last_punch": "23:53",
+      "total_punches": 111,
+      "working_hours": "23:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:05",
+      "last_punch": "23:55",
+      "total_punches": 113,
+      "working_hours": "23:50",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:24",
+      "last_punch": "23:38",
+      "total_punches": 100,
+      "working_hours": "22:14",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:06",
+      "last_punch": "23:52",
+      "total_punches": 111,
+      "working_hours": "22:46",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:03",
+      "last_punch": "23:54",
+      "total_punches": 124,
+      "working_hours": "23:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:11",
+      "last_punch": "23:44",
+      "total_punches": 114,
+      "working_hours": "23:32",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:04",
+      "last_punch": "23:59",
+      "total_punches": 114,
+      "working_hours": "22:55",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:38",
+      "last_punch": "23:50",
+      "total_punches": 111,
+      "working_hours": "23:12",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:01",
+      "last_punch": "23:50",
+      "total_punches": 122,
+      "working_hours": "22:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:00",
+      "last_punch": "23:48",
+      "total_punches": 114,
+      "working_hours": "23:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:12",
+      "last_punch": "23:52",
+      "total_punches": 118,
+      "working_hours": "23:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:02",
+      "last_punch": "23:54",
+      "total_punches": 108,
+      "working_hours": "22:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:27",
+      "last_punch": "23:59",
+      "total_punches": 110,
+      "working_hours": "22:31",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:01",
+      "last_punch": "23:39",
+      "total_punches": 117,
+      "working_hours": "22:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:00",
+      "last_punch": "23:57",
+      "total_punches": 123,
+      "working_hours": "23:57",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:09",
+      "last_punch": "23:56",
+      "total_punches": 133,
+      "working_hours": "23:46",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:03",
+      "last_punch": "23:54",
+      "total_punches": 131,
+      "working_hours": "23:50",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:17",
+      "last_punch": "23:35",
+      "total_punches": 99,
+      "working_hours": "22:17",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:00",
+      "last_punch": "23:54",
+      "total_punches": 91,
+      "working_hours": "22:53",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:10",
+      "last_punch": "23:41",
+      "total_punches": 88,
+      "working_hours": "22:30",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:10",
+      "last_punch": "23:35",
+      "total_punches": 140,
+      "working_hours": "23:24",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:01",
+      "last_punch": "23:41",
+      "total_punches": 133,
+      "working_hours": "23:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:09",
+      "last_punch": "23:44",
+      "total_punches": 125,
+      "working_hours": "23:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:02",
+      "last_punch": "23:32",
+      "total_punches": 99,
+      "working_hours": "22:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:42",
+      "last_punch": "23:57",
+      "total_punches": 116,
+      "working_hours": "23:15",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:10",
+      "last_punch": "23:10",
+      "total_punches": 108,
+      "working_hours": "22:59",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:00",
+      "last_punch": "23:59",
+      "total_punches": 103,
+      "working_hours": "22:58",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-27": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:16",
+      "last_punch": "23:43",
+      "total_punches": 105,
+      "working_hours": "22:26",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:06",
+      "last_punch": "23:58",
+      "total_punches": 132,
+      "working_hours": "23:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:10",
+      "last_punch": "23:29",
+      "total_punches": 118,
+      "working_hours": "22:19",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:28",
+      "last_punch": "23:42",
+      "total_punches": 126,
+      "working_hours": "23:13",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:00",
+      "last_punch": "23:51",
+      "total_punches": 96,
+      "working_hours": "22:51",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:30",
+      "last_punch": "23:59",
+      "total_punches": 103,
+      "working_hours": "22:28",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:01",
+      "last_punch": "23:59",
+      "total_punches": 125,
+      "working_hours": "23:57",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:31",
+      "last_punch": "23:53",
+      "total_punches": 113,
+      "working_hours": "23:22",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:05",
+      "last_punch": "23:25",
+      "total_punches": 94,
+      "working_hours": "22:20",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:46",
+      "last_punch": "23:41",
+      "total_punches": 106,
+      "working_hours": "21:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:10",
+      "last_punch": "23:39",
+      "total_punches": 109,
+      "working_hours": "22:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:04",
+      "last_punch": "23:39",
+      "total_punches": 112,
+      "working_hours": "23:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:10",
+      "last_punch": "23:52",
+      "total_punches": 132,
+      "working_hours": "23:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:00",
+      "last_punch": "23:17",
+      "total_punches": 98,
+      "working_hours": "22:17",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:31",
+      "last_punch": "23:48",
+      "total_punches": 109,
+      "working_hours": "22:17",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:18",
+      "last_punch": "23:57",
+      "total_punches": 108,
+      "working_hours": "22:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:19",
+      "last_punch": "23:52",
+      "total_punches": 104,
+      "working_hours": "22:32",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:00",
+      "last_punch": "23:43",
+      "total_punches": 110,
+      "working_hours": "22:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:10",
+      "last_punch": "23:58",
+      "total_punches": 116,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:34",
+      "last_punch": "23:58",
+      "total_punches": 111,
+      "working_hours": "23:23",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:11",
+      "last_punch": "23:44",
+      "total_punches": 114,
+      "working_hours": "22:33",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:08",
+      "last_punch": "23:50",
+      "total_punches": 130,
+      "working_hours": "23:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:05",
+      "last_punch": "23:45",
+      "total_punches": 107,
+      "working_hours": "22:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:46",
+      "last_punch": "23:51",
+      "total_punches": 112,
+      "working_hours": "22:04",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:07",
+      "last_punch": "23:58",
+      "total_punches": 115,
+      "working_hours": "22:50",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:27",
+      "last_punch": "23:50",
+      "total_punches": 122,
+      "working_hours": "22:22",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:05",
+      "last_punch": "23:46",
+      "total_punches": 117,
+      "working_hours": "23:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:38",
+      "last_punch": "23:10",
+      "total_punches": 105,
+      "working_hours": "22:31",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:16",
+      "last_punch": "23:46",
+      "total_punches": 118,
+      "working_hours": "23:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:05",
+      "last_punch": "23:50",
+      "total_punches": 112,
+      "working_hours": "22:45",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-28": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:20",
+      "last_punch": "23:35",
+      "total_punches": 112,
+      "working_hours": "22:15",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:12",
+      "last_punch": "23:49",
+      "total_punches": 120,
+      "working_hours": "22:36",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:03",
+      "last_punch": "23:50",
+      "total_punches": 118,
+      "working_hours": "23:46",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:01",
+      "last_punch": "23:42",
+      "total_punches": 113,
+      "working_hours": "23:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:09",
+      "last_punch": "23:52",
+      "total_punches": 121,
+      "working_hours": "22:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:00",
+      "last_punch": "23:57",
+      "total_punches": 128,
+      "working_hours": "23:57",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:02",
+      "last_punch": "23:54",
+      "total_punches": 116,
+      "working_hours": "23:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:14",
+      "last_punch": "23:53",
+      "total_punches": 102,
+      "working_hours": "22:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:00",
+      "last_punch": "23:41",
+      "total_punches": 102,
+      "working_hours": "23:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:05",
+      "last_punch": "23:36",
+      "total_punches": 92,
+      "working_hours": "22:30",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:08",
+      "last_punch": "23:35",
+      "total_punches": 90,
+      "working_hours": "22:26",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:01",
+      "last_punch": "23:59",
+      "total_punches": 97,
+      "working_hours": "23:58",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:00",
+      "last_punch": "23:52",
+      "total_punches": 120,
+      "working_hours": "22:52",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:02",
+      "last_punch": "23:50",
+      "total_punches": 101,
+      "working_hours": "22:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:26",
+      "last_punch": "23:58",
+      "total_punches": 106,
+      "working_hours": "22:31",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:00",
+      "last_punch": "23:56",
+      "total_punches": 116,
+      "working_hours": "23:55",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:02",
+      "last_punch": "23:42",
+      "total_punches": 124,
+      "working_hours": "23:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:18",
+      "last_punch": "23:55",
+      "total_punches": 122,
+      "working_hours": "23:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:32",
+      "last_punch": "23:56",
+      "total_punches": 114,
+      "working_hours": "22:24",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:06",
+      "last_punch": "23:40",
+      "total_punches": 118,
+      "working_hours": "23:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:02",
+      "last_punch": "23:59",
+      "total_punches": 97,
+      "working_hours": "22:56",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:02",
+      "last_punch": "23:46",
+      "total_punches": 102,
+      "working_hours": "23:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:01",
+      "last_punch": "23:56",
+      "total_punches": 117,
+      "working_hours": "23:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:06",
+      "last_punch": "23:56",
+      "total_punches": 113,
+      "working_hours": "22:50",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:06",
+      "last_punch": "23:54",
+      "total_punches": 123,
+      "working_hours": "22:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:06",
+      "last_punch": "23:43",
+      "total_punches": 104,
+      "working_hours": "22:36",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:28",
+      "last_punch": "23:45",
+      "total_punches": 119,
+      "working_hours": "23:17",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:04",
+      "last_punch": "23:57",
+      "total_punches": 115,
+      "working_hours": "22:53",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:11",
+      "last_punch": "23:59",
+      "total_punches": 110,
+      "working_hours": "23:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:36",
+      "last_punch": "23:58",
+      "total_punches": 102,
+      "working_hours": "22:21",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-29": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:09",
+      "last_punch": "23:25",
+      "total_punches": 120,
+      "working_hours": "22:15",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:12",
+      "last_punch": "23:47",
+      "total_punches": 113,
+      "working_hours": "23:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:27",
+      "last_punch": "23:37",
+      "total_punches": 115,
+      "working_hours": "23:10",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:09",
+      "last_punch": "23:47",
+      "total_punches": 120,
+      "working_hours": "23:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:00",
+      "last_punch": "23:29",
+      "total_punches": 123,
+      "working_hours": "23:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:02",
+      "last_punch": "23:58",
+      "total_punches": 109,
+      "working_hours": "22:55",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:00",
+      "last_punch": "23:55",
+      "total_punches": 110,
+      "working_hours": "23:55",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:09",
+      "last_punch": "23:44",
+      "total_punches": 122,
+      "working_hours": "22:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:08",
+      "last_punch": "23:47",
+      "total_punches": 98,
+      "working_hours": "22:39",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:04",
+      "last_punch": "23:54",
+      "total_punches": 98,
+      "working_hours": "22:50",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:11",
+      "last_punch": "23:59",
+      "total_punches": 129,
+      "working_hours": "23:48",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:03",
+      "last_punch": "23:33",
+      "total_punches": 120,
+      "working_hours": "23:30",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:12",
+      "last_punch": "23:57",
+      "total_punches": 116,
+      "working_hours": "22:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:17",
+      "last_punch": "23:34",
+      "total_punches": 108,
+      "working_hours": "23:16",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:00",
+      "last_punch": "23:58",
+      "total_punches": 111,
+      "working_hours": "23:58",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:13",
+      "last_punch": "23:28",
+      "total_punches": 115,
+      "working_hours": "23:15",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:31",
+      "last_punch": "23:06",
+      "total_punches": 103,
+      "working_hours": "22:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:07",
+      "last_punch": "23:54",
+      "total_punches": 98,
+      "working_hours": "22:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:08",
+      "last_punch": "23:24",
+      "total_punches": 98,
+      "working_hours": "22:15",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:06",
+      "last_punch": "23:56",
+      "total_punches": 119,
+      "working_hours": "23:49",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:12",
+      "last_punch": "23:41",
+      "total_punches": 101,
+      "working_hours": "22:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:44",
+      "last_punch": "23:58",
+      "total_punches": 131,
+      "working_hours": "22:13",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:13",
+      "last_punch": "23:35",
+      "total_punches": 88,
+      "working_hours": "22:21",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:31",
+      "last_punch": "23:55",
+      "total_punches": 125,
+      "working_hours": "23:23",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:11",
+      "last_punch": "23:40",
+      "total_punches": 137,
+      "working_hours": "23:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:11",
+      "last_punch": "23:48",
+      "total_punches": 106,
+      "working_hours": "22:37",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:21",
+      "last_punch": "23:55",
+      "total_punches": 125,
+      "working_hours": "23:34",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:25",
+      "last_punch": "23:55",
+      "total_punches": 124,
+      "working_hours": "23:29",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:31",
+      "last_punch": "23:58",
+      "total_punches": 100,
+      "working_hours": "22:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:04",
+      "last_punch": "23:31",
+      "total_punches": 103,
+      "working_hours": "22:26",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ],
+  "2025-09-30": [
+    {
+      "emp_code": "10000",
+      "first_punch": "00:14",
+      "last_punch": "17:54",
+      "total_punches": 105,
+      "working_hours": "17:40",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10001",
+      "first_punch": "00:00",
+      "last_punch": "17:56",
+      "total_punches": 80,
+      "working_hours": "16:55",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10002",
+      "first_punch": "00:03",
+      "last_punch": "17:13",
+      "total_punches": 89,
+      "working_hours": "17:10",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10003",
+      "first_punch": "00:03",
+      "last_punch": "17:51",
+      "total_punches": 93,
+      "working_hours": "17:47",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10004",
+      "first_punch": "00:02",
+      "last_punch": "17:56",
+      "total_punches": 86,
+      "working_hours": "16:54",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10005",
+      "first_punch": "00:21",
+      "last_punch": "17:50",
+      "total_punches": 80,
+      "working_hours": "16:28",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10006",
+      "first_punch": "00:29",
+      "last_punch": "17:57",
+      "total_punches": 82,
+      "working_hours": "16:27",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10007",
+      "first_punch": "00:00",
+      "last_punch": "17:19",
+      "total_punches": 86,
+      "working_hours": "17:18",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10008",
+      "first_punch": "00:10",
+      "last_punch": "17:45",
+      "total_punches": 75,
+      "working_hours": "16:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10009",
+      "first_punch": "00:08",
+      "last_punch": "17:54",
+      "total_punches": 67,
+      "working_hours": "16:46",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10010",
+      "first_punch": "00:16",
+      "last_punch": "17:47",
+      "total_punches": 83,
+      "working_hours": "17:30",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10011",
+      "first_punch": "00:13",
+      "last_punch": "17:56",
+      "total_punches": 95,
+      "working_hours": "17:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10012",
+      "first_punch": "00:02",
+      "last_punch": "17:44",
+      "total_punches": 76,
+      "working_hours": "17:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10013",
+      "first_punch": "00:20",
+      "last_punch": "17:54",
+      "total_punches": 88,
+      "working_hours": "17:33",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10014",
+      "first_punch": "00:11",
+      "last_punch": "17:54",
+      "total_punches": 76,
+      "working_hours": "17:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10015",
+      "first_punch": "00:15",
+      "last_punch": "17:58",
+      "total_punches": 88,
+      "working_hours": "17:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10016",
+      "first_punch": "00:23",
+      "last_punch": "17:43",
+      "total_punches": 66,
+      "working_hours": "17:19",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10017",
+      "first_punch": "00:16",
+      "last_punch": "17:52",
+      "total_punches": 95,
+      "working_hours": "16:35",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10018",
+      "first_punch": "00:06",
+      "last_punch": "17:52",
+      "total_punches": 79,
+      "working_hours": "16:46",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10019",
+      "first_punch": "00:00",
+      "last_punch": "17:56",
+      "total_punches": 112,
+      "working_hours": "17:55",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10020",
+      "first_punch": "00:16",
+      "last_punch": "17:58",
+      "total_punches": 74,
+      "working_hours": "16:42",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10021",
+      "first_punch": "00:00",
+      "last_punch": "17:56",
+      "total_punches": 90,
+      "working_hours": "16:55",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10022",
+      "first_punch": "00:10",
+      "last_punch": "17:56",
+      "total_punches": 83,
+      "working_hours": "17:45",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10023",
+      "first_punch": "00:17",
+      "last_punch": "17:59",
+      "total_punches": 92,
+      "working_hours": "16:41",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10024",
+      "first_punch": "00:20",
+      "last_punch": "17:40",
+      "total_punches": 85,
+      "working_hours": "16:20",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10025",
+      "first_punch": "00:08",
+      "last_punch": "17:52",
+      "total_punches": 78,
+      "working_hours": "16:44",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10026",
+      "first_punch": "00:41",
+      "last_punch": "17:48",
+      "total_punches": 88,
+      "working_hours": "16:07",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10027",
+      "first_punch": "00:32",
+      "last_punch": "17:15",
+      "total_punches": 62,
+      "working_hours": "15:43",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10028",
+      "first_punch": "00:05",
+      "last_punch": "17:44",
+      "total_punches": 80,
+      "working_hours": "16:38",
+      "late_entry": 0,
+      "early_exit": 0
+    },
+    {
+      "emp_code": "10029",
+      "first_punch": "00:09",
+      "last_punch": "17:59",
+      "total_punches": 107,
+      "working_hours": "17:50",
+      "late_entry": 0,
+      "early_exit": 0
+    }
+  ]
+}
