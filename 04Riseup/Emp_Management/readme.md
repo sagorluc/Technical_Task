@@ -172,6 +172,45 @@ services:
 - শুধু Dockerfile use করলে → একটি container manual চালাতে হবে।
 - শুধু docker-compose.yml use করলে → শুধু existing image use করতে পারবেন, custom image তৈরি করা কঠিন।
 
+## Swagger Documentation (drf-spectacular)
+### Install
+```bash
+pip install drf-spectacular
+```
+### settings.py
+```bash
+REST_FRAMEWORK = {
+    "DEFAULT_SCHEMA_CLASS": "drf_spectacular.openapi.AutoSchema",
+}
+```
+### project-level urls.py
+```python
+from drf_spectacular.views import SpectacularAPIView, SpectacularSwaggerView
+from django.urls import path, include
+
+urlpatterns = [
+    path("api/schema/", SpectacularAPIView.as_view(), name="schema"),
+    path("api/docs/", SpectacularSwaggerView.as_view(url_name="schema"), name="swagger-ui"),
+    path("api/", include("leaves.urls")),
+]
+```
+### Add nice docs to your actions
+```python
+from drf_spectacular.utils import extend_schema, OpenApiResponse
+
+class LeaveRequestViewSet(ModelViewSet):
+    ...
+
+    @extend_schema(
+        summary="Approve a leave request",
+        request=LeaveActionSerializer,
+        responses={200: LeaveRequestSerializer},
+    )
+    @action(detail=True, methods=["post"])
+    def approve(self, request, pk=None):
+        ...
+```
+
 ### API runs at:
 👉 http://localhost:8000
 
@@ -180,6 +219,16 @@ services:
 
 ### Schema JSON:
 👉 http://localhost:8000/api/schema/
+
+| Endpoint                 | Method | Description    |
+| ------------------------ | ------ | -------------- |
+| `/leaves/`               | GET    | List leaves    |
+| `/leaves/`               | POST   | Create leave   |
+| `/leaves/{id}/`          | GET    | Retrieve       |
+| `/leaves/{id}/approve/`  | POST   | Approve leave  |
+| `/leaves/{id}/reject/`   | POST   | Reject leave   |
+| `/leaves/{id}/withdraw/` | POST   | Withdraw leave |
+
 
 ## 🟦 Leave Request API
 Base Path:
