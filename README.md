@@ -291,7 +291,7 @@ POST /payments/create/
 | `send_invoice(order_id)`     | Generates the invoice for a `RepairOrder`. Currently a placeholder for future implementation.                                                    |
 | `start_processing(order_id)` | Simulates the order processing workflow. Updates `RepairOrder` status: `processing` → `completed`. Waits 30 seconds to simulate processing time. |
 
-Request Example (Webhook)
+**Request Example (Webhook)**
 Stripe automatically sends JSON payloads. Example for checkout.session.completed:
 ```json
 {
@@ -308,7 +308,7 @@ Stripe automatically sends JSON payloads. Example for checkout.session.completed
   }
 }
 ```
-Response
+**Response**
 ```json
 {
   "message": "OK"
