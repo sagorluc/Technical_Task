@@ -128,7 +128,7 @@ MarketLink is a Django-based backend system for a marketplace connecting custome
 ```bash
     celery -A marketlink worker -l info
 ```
-3. **Swagger UI:** http://localhost:8000/api/schema/docs/
+3. **Swagger UI:** http://localhost:8000/api/schema/docs/ <br>
 Update your base domain to point to the ngrok URL:
 ```bash
 https://<ngrok-id>.ngrok-free.dev/api/schema/docs/
