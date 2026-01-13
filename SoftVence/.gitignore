@@ -1,0 +1,9 @@
+vrenv
+.env
+enti.drawio
+__pycache__/
+*.pyc
+migrations/
+.DS_Store
+*.sqlite3
+*.log
